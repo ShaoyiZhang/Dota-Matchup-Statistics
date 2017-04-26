@@ -134,6 +134,10 @@
                     "co-opIndex": "-2.40",
                     "winRateAsAlly": "53.32"
                 },
+                "furion": {
+                    "co-opIndex": "-1.82",
+                    "winRateAsAlly": "49.24"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.04",
                     "winRateAsAlly": "49.86"
@@ -582,6 +586,10 @@
                     "co-opIndex": "-2.26",
                     "winRateAsAlly": "56.41"
                 },
+                "furion": {
+                    "co-opIndex": "-2.64",
+                    "winRateAsAlly": "60.39"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.56",
                     "winRateAsAlly": "61.47"
@@ -896,7 +904,7 @@
                 }
             }
         },
-        "winRate": "56.18"
+        "winRate": "56.15"
     },
     "abyssal_underlord": {
         "Ally": {
@@ -1032,6 +1040,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.12",
                     "winRateAsAlly": "50.74"
+                },
+                "furion": {
+                    "co-opIndex": "0.03",
+                    "winRateAsAlly": "46.21"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.97",
@@ -1480,6 +1492,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.25",
                     "winRateAsAlly": "53.94"
+                },
+                "furion": {
+                    "co-opIndex": "-1.15",
+                    "winRateAsAlly": "57.56"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.15",
@@ -1932,6 +1948,10 @@
                     "co-opIndex": "-0.62",
                     "winRateAsAlly": "45.25"
                 },
+                "furion": {
+                    "co-opIndex": "-3.84",
+                    "winRateAsAlly": "39.55"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.19",
                     "winRateAsAlly": "41.84"
@@ -2380,6 +2400,10 @@
                     "co-opIndex": "1.85",
                     "winRateAsAlly": "49.55"
                 },
+                "furion": {
+                    "co-opIndex": "1.81",
+                    "winRateAsAlly": "54.10"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.02",
                     "winRateAsAlly": "52.37"
@@ -2694,7 +2718,7 @@
                 }
             }
         },
-        "winRate": "47.09"
+        "winRate": "47.05"
     },
     "ancient_apparition": {
         "Ally": {
@@ -2830,6 +2854,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.96",
                     "winRateAsAlly": "50.04"
+                },
+                "furion": {
+                    "co-opIndex": "0.67",
+                    "winRateAsAlly": "44.91"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.69",
@@ -3279,6 +3307,10 @@
                     "co-opIndex": "-0.73",
                     "winRateAsAlly": "51.82"
                 },
+                "furion": {
+                    "co-opIndex": "-3.69",
+                    "winRateAsAlly": "54.57"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.56",
                     "winRateAsAlly": "56.12"
@@ -3593,7 +3625,7 @@
                 }
             }
         },
-        "winRate": "50.64"
+        "winRate": "50.66"
     },
     "antimage": {
         "Ally": {
@@ -3729,6 +3761,10 @@
                 "faceless_void": {
                     "co-opIndex": "-3.08",
                     "winRateAsAlly": "45.17"
+                },
+                "furion": {
+                    "co-opIndex": "-3.04",
+                    "winRateAsAlly": "40.89"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.31",
@@ -4177,6 +4213,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.60",
                     "winRateAsAlly": "51.02"
+                },
+                "furion": {
+                    "co-opIndex": "3.62",
+                    "winRateAsAlly": "56.17"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.90",
@@ -4629,6 +4669,10 @@
                     "co-opIndex": "3.27",
                     "winRateAsAlly": "43.80"
                 },
+                "furion": {
+                    "co-opIndex": "7.19",
+                    "winRateAsAlly": "40.84"
+                },
                 "gyrocopter": {
                     "co-opIndex": "4.23",
                     "winRateAsAlly": "39.93"
@@ -5077,6 +5121,10 @@
                     "co-opIndex": "-2.44",
                     "winRateAsAlly": "44.39"
                 },
+                "furion": {
+                    "co-opIndex": "-1.46",
+                    "winRateAsAlly": "49.24"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.06",
                     "winRateAsAlly": "48.73"
@@ -5391,7 +5439,7 @@
                 }
             }
         },
-        "winRate": "43.95"
+        "winRate": "43.99"
     },
     "axe": {
         "Ally": {
@@ -5527,6 +5575,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.30",
                     "winRateAsAlly": "52.71"
+                },
+                "furion": {
+                    "co-opIndex": "0.20",
+                    "winRateAsAlly": "49.01"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.53",
@@ -5976,6 +6028,10 @@
                     "co-opIndex": "2.43",
                     "winRateAsAlly": "57.87"
                 },
+                "furion": {
+                    "co-opIndex": "1.26",
+                    "winRateAsAlly": "61.62"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.01",
                     "winRateAsAlly": "60.64"
@@ -6290,7 +6346,7 @@
                 }
             }
         },
-        "winRate": "54.95"
+        "winRate": "54.94"
     },
     "bane": {
         "Ally": {
@@ -6426,6 +6482,10 @@
                 "faceless_void": {
                     "co-opIndex": "3.15",
                     "winRateAsAlly": "45.11"
+                },
+                "furion": {
+                    "co-opIndex": "6.01",
+                    "winRateAsAlly": "41.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "3.36",
@@ -6875,6 +6935,10 @@
                     "co-opIndex": "-0.29",
                     "winRateAsAlly": "46.69"
                 },
+                "furion": {
+                    "co-opIndex": "-2.42",
+                    "winRateAsAlly": "50.07"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-4.05",
                     "winRateAsAlly": "49.02"
@@ -7189,7 +7253,7 @@
                 }
             }
         },
-        "winRate": "45.27"
+        "winRate": "45.28"
     },
     "batrider": {
         "Ally": {
@@ -7325,6 +7389,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.06",
                     "winRateAsAlly": "41.93"
+                },
+                "furion": {
+                    "co-opIndex": "6.04",
+                    "winRateAsAlly": "39.93"
                 },
                 "gyrocopter": {
                     "co-opIndex": "3.00",
@@ -7773,6 +7841,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.85",
                     "winRateAsAlly": "44.19"
+                },
+                "furion": {
+                    "co-opIndex": "-1.50",
+                    "winRateAsAlly": "48.76"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.98",
@@ -8225,6 +8297,10 @@
                     "co-opIndex": "0.59",
                     "winRateAsAlly": "43.88"
                 },
+                "furion": {
+                    "co-opIndex": "4.13",
+                    "winRateAsAlly": "40.89"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.26",
                     "winRateAsAlly": "39.38"
@@ -8673,6 +8749,10 @@
                     "co-opIndex": "-0.50",
                     "winRateAsAlly": "46.49"
                 },
+                "furion": {
+                    "co-opIndex": "0.19",
+                    "winRateAsAlly": "51.31"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-3.72",
                     "winRateAsAlly": "49.09"
@@ -8987,7 +9067,7 @@
                 }
             }
         },
-        "winRate": "45.17"
+        "winRate": "45.16"
     },
     "bloodseeker": {
         "Ally": {
@@ -9123,6 +9203,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.77",
                     "winRateAsAlly": "49.96"
+                },
+                "furion": {
+                    "co-opIndex": "0.08",
+                    "winRateAsAlly": "45.14"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.20",
@@ -9571,6 +9655,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.48",
                     "winRateAsAlly": "52.96"
+                },
+                "furion": {
+                    "co-opIndex": "0.10",
+                    "winRateAsAlly": "57.20"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.19",
@@ -10023,6 +10111,10 @@
                     "co-opIndex": "1.36",
                     "winRateAsAlly": "46.62"
                 },
+                "furion": {
+                    "co-opIndex": "0.04",
+                    "winRateAsAlly": "41.59"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.86",
                     "winRateAsAlly": "42.15"
@@ -10471,6 +10563,10 @@
                     "co-opIndex": "-1.90",
                     "winRateAsAlly": "48.18"
                 },
+                "furion": {
+                    "co-opIndex": "0.79",
+                    "winRateAsAlly": "54.02"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.38",
                     "winRateAsAlly": "52.64"
@@ -10785,7 +10881,7 @@
                 }
             }
         },
-        "winRate": "47.55"
+        "winRate": "47.56"
     },
     "brewmaster": {
         "Ally": {
@@ -10921,6 +11017,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.09",
                     "winRateAsAlly": "46.36"
+                },
+                "furion": {
+                    "co-opIndex": "5.89",
+                    "winRateAsAlly": "44.44"
                 },
                 "gyrocopter": {
                     "co-opIndex": "6.67",
@@ -11370,6 +11470,10 @@
                     "co-opIndex": "0.26",
                     "winRateAsAlly": "49.65"
                 },
+                "furion": {
+                    "co-opIndex": "-2.68",
+                    "winRateAsAlly": "52.55"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.91",
                     "winRateAsAlly": "52.75"
@@ -11684,7 +11788,7 @@
                 }
             }
         },
-        "winRate": "47.96"
+        "winRate": "47.97"
     },
     "bristleback": {
         "Ally": {
@@ -11820,6 +11924,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.59",
                     "winRateAsAlly": "49.98"
+                },
+                "furion": {
+                    "co-opIndex": "3.74",
+                    "winRateAsAlly": "46.91"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.11",
@@ -12269,6 +12377,10 @@
                     "co-opIndex": "-0.73",
                     "winRateAsAlly": "52.43"
                 },
+                "furion": {
+                    "co-opIndex": "-0.77",
+                    "winRateAsAlly": "56.82"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.03",
                     "winRateAsAlly": "57.62"
@@ -12583,7 +12695,7 @@
                 }
             }
         },
-        "winRate": "51.26"
+        "winRate": "51.30"
     },
     "broodmother": {
         "Ally": {
@@ -12719,6 +12831,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.92",
                     "winRateAsAlly": "39.40"
+                },
+                "furion": {
+                    "co-opIndex": "7.70",
+                    "winRateAsAlly": "37.54"
                 },
                 "gyrocopter": {
                     "co-opIndex": "8.17",
@@ -13168,6 +13284,10 @@
                     "co-opIndex": "3.36",
                     "winRateAsAlly": "43.47"
                 },
+                "furion": {
+                    "co-opIndex": "-0.96",
+                    "winRateAsAlly": "46.04"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-3.14",
                     "winRateAsAlly": "44.80"
@@ -13482,7 +13602,7 @@
                 }
             }
         },
-        "winRate": "40.54"
+        "winRate": "40.55"
     },
     "centaur": {
         "Ally": {
@@ -13618,6 +13738,10 @@
                 "faceless_void": {
                     "co-opIndex": "-3.41",
                     "winRateAsAlly": "51.82"
+                },
+                "furion": {
+                    "co-opIndex": "-0.80",
+                    "winRateAsAlly": "48.77"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.99",
@@ -14067,6 +14191,10 @@
                     "co-opIndex": "1.92",
                     "winRateAsAlly": "57.83"
                 },
+                "furion": {
+                    "co-opIndex": "0.34",
+                    "winRateAsAlly": "61.29"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.00",
                     "winRateAsAlly": "62.09"
@@ -14381,7 +14509,7 @@
                 }
             }
         },
-        "winRate": "55.20"
+        "winRate": "55.18"
     },
     "chaos_knight": {
         "Ally": {
@@ -14517,6 +14645,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.97",
                     "winRateAsAlly": "50.88"
+                },
+                "furion": {
+                    "co-opIndex": "1.88",
+                    "winRateAsAlly": "48.31"
                 },
                 "gyrocopter": {
                     "co-opIndex": "4.02",
@@ -14965,6 +15097,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.95",
                     "winRateAsAlly": "56.09"
+                },
+                "furion": {
+                    "co-opIndex": "0.35",
+                    "winRateAsAlly": "59.62"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.60",
@@ -15417,6 +15553,10 @@
                     "co-opIndex": "4.04",
                     "winRateAsAlly": "41.80"
                 },
+                "furion": {
+                    "co-opIndex": "-0.79",
+                    "winRateAsAlly": "35.66"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.32",
                     "winRateAsAlly": "36.03"
@@ -15864,6 +16004,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.04",
                     "winRateAsAlly": "42.33"
+                },
+                "furion": {
+                    "co-opIndex": "-4.39",
+                    "winRateAsAlly": "45.57"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.40",
@@ -16316,6 +16460,10 @@
                     "co-opIndex": "3.49",
                     "winRateAsAlly": "46.66"
                 },
+                "furion": {
+                    "co-opIndex": "2.98",
+                    "winRateAsAlly": "41.90"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.48",
                     "winRateAsAlly": "41.51"
@@ -16763,6 +16911,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.38",
                     "winRateAsAlly": "48.39"
+                },
+                "furion": {
+                    "co-opIndex": "-0.72",
+                    "winRateAsAlly": "52.31"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.43",
@@ -17215,6 +17367,10 @@
                     "co-opIndex": "-0.01",
                     "winRateAsAlly": "53.36"
                 },
+                "furion": {
+                    "co-opIndex": "0.15",
+                    "winRateAsAlly": "48.95"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.74",
                     "winRateAsAlly": "47.76"
@@ -17662,6 +17818,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.05",
                     "winRateAsAlly": "57.05"
+                },
+                "furion": {
+                    "co-opIndex": "0.96",
+                    "winRateAsAlly": "61.40"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.49",
@@ -18114,6 +18274,10 @@
                     "co-opIndex": "-0.26",
                     "winRateAsAlly": "46.93"
                 },
+                "furion": {
+                    "co-opIndex": "0.79",
+                    "winRateAsAlly": "42.96"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.82",
                     "winRateAsAlly": "43.62"
@@ -18561,6 +18725,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.17",
                     "winRateAsAlly": "50.27"
+                },
+                "furion": {
+                    "co-opIndex": "-2.80",
+                    "winRateAsAlly": "53.13"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.40",
@@ -19013,6 +19181,10 @@
                     "co-opIndex": "1.33",
                     "winRateAsAlly": "49.85"
                 },
+                "furion": {
+                    "co-opIndex": "0.52",
+                    "winRateAsAlly": "44.96"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.24",
                     "winRateAsAlly": "45.50"
@@ -19460,6 +19632,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.00",
                     "winRateAsAlly": "51.27"
+                },
+                "furion": {
+                    "co-opIndex": "-2.39",
+                    "winRateAsAlly": "55.42"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.39",
@@ -19912,6 +20088,10 @@
                     "co-opIndex": "2.45",
                     "winRateAsAlly": "44.57"
                 },
+                "furion": {
+                    "co-opIndex": "7.88",
+                    "winRateAsAlly": "42.23"
+                },
                 "gyrocopter": {
                     "co-opIndex": "5.17",
                     "winRateAsAlly": "41.40"
@@ -20360,6 +20540,10 @@
                     "co-opIndex": "1.16",
                     "winRateAsAlly": "47.14"
                 },
+                "furion": {
+                    "co-opIndex": "-3.69",
+                    "winRateAsAlly": "49.20"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.51",
                     "winRateAsAlly": "50.09"
@@ -20674,7 +20858,7 @@
                 }
             }
         },
-        "winRate": "45.04"
+        "winRate": "45.08"
     },
     "disruptor": {
         "Ally": {
@@ -20810,6 +20994,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.33",
                     "winRateAsAlly": "48.82"
+                },
+                "furion": {
+                    "co-opIndex": "-0.84",
+                    "winRateAsAlly": "43.83"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.17",
@@ -21258,6 +21446,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.79",
                     "winRateAsAlly": "52.20"
+                },
+                "furion": {
+                    "co-opIndex": "-3.19",
+                    "winRateAsAlly": "54.45"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.99",
@@ -21710,6 +21902,10 @@
                     "co-opIndex": "2.98",
                     "winRateAsAlly": "42.98"
                 },
+                "furion": {
+                    "co-opIndex": "1.39",
+                    "winRateAsAlly": "37.96"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.63",
                     "winRateAsAlly": "37.89"
@@ -22157,6 +22353,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.53",
                     "winRateAsAlly": "45.04"
+                },
+                "furion": {
+                    "co-opIndex": "0.91",
+                    "winRateAsAlly": "49.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.09",
@@ -22609,6 +22809,10 @@
                     "co-opIndex": "1.11",
                     "winRateAsAlly": "49.66"
                 },
+                "furion": {
+                    "co-opIndex": "1.72",
+                    "winRateAsAlly": "45.41"
+                },
                 "gyrocopter": {
                     "co-opIndex": "3.62",
                     "winRateAsAlly": "46.49"
@@ -23057,6 +23261,10 @@
                     "co-opIndex": "1.28",
                     "winRateAsAlly": "52.90"
                 },
+                "furion": {
+                    "co-opIndex": "-0.37",
+                    "winRateAsAlly": "56.48"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.23",
                     "winRateAsAlly": "56.34"
@@ -23371,7 +23579,7 @@
                 }
             }
         },
-        "winRate": "50.67"
+        "winRate": "50.68"
     },
     "drow_ranger": {
         "Ally": {
@@ -23507,6 +23715,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.51",
                     "winRateAsAlly": "47.91"
+                },
+                "furion": {
+                    "co-opIndex": "7.32",
+                    "winRateAsAlly": "46.38"
                 },
                 "gyrocopter": {
                     "co-opIndex": "7.45",
@@ -23955,6 +24167,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.44",
                     "winRateAsAlly": "51.52"
+                },
+                "furion": {
+                    "co-opIndex": "-1.33",
+                    "winRateAsAlly": "54.53"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.61",
@@ -24407,6 +24623,10 @@
                     "co-opIndex": "0.16",
                     "winRateAsAlly": "40.59"
                 },
+                "furion": {
+                    "co-opIndex": "-2.32",
+                    "winRateAsAlly": "35.44"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-9.36",
                     "winRateAsAlly": "33.08"
@@ -24855,6 +25075,10 @@
                     "co-opIndex": "-0.96",
                     "winRateAsAlly": "43.16"
                 },
+                "furion": {
+                    "co-opIndex": "-1.48",
+                    "winRateAsAlly": "47.32"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-4.11",
                     "winRateAsAlly": "45.84"
@@ -25169,7 +25393,7 @@
                 }
             }
         },
-        "winRate": "42.04"
+        "winRate": "42.05"
     },
     "earthshaker": {
         "Ally": {
@@ -25305,6 +25529,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.09",
                     "winRateAsAlly": "48.43"
+                },
+                "furion": {
+                    "co-opIndex": "0.54",
+                    "winRateAsAlly": "44.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.49",
@@ -25753,6 +25981,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.63",
                     "winRateAsAlly": "52.94"
+                },
+                "furion": {
+                    "co-opIndex": "-0.06",
+                    "winRateAsAlly": "56.51"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.41",
@@ -26205,6 +26437,10 @@
                     "co-opIndex": "2.08",
                     "winRateAsAlly": "51.00"
                 },
+                "furion": {
+                    "co-opIndex": "3.19",
+                    "winRateAsAlly": "46.94"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.46",
                     "winRateAsAlly": "46.38"
@@ -26653,6 +26889,10 @@
                     "co-opIndex": "-0.61",
                     "winRateAsAlly": "52.77"
                 },
+                "furion": {
+                    "co-opIndex": "-5.21",
+                    "winRateAsAlly": "54.53"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.15",
                     "winRateAsAlly": "56.08"
@@ -26967,7 +27207,7 @@
                 }
             }
         },
-        "winRate": "51.53"
+        "winRate": "51.51"
     },
     "ember_spirit": {
         "Ally": {
@@ -27103,6 +27343,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.16",
                     "winRateAsAlly": "45.28"
+                },
+                "furion": {
+                    "co-opIndex": "-1.57",
+                    "winRateAsAlly": "41.20"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-6.40",
@@ -27552,6 +27796,10 @@
                     "co-opIndex": "-1.28",
                     "winRateAsAlly": "48.77"
                 },
+                "furion": {
+                    "co-opIndex": "0.66",
+                    "winRateAsAlly": "54.24"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.01",
                     "winRateAsAlly": "53.12"
@@ -27866,7 +28114,7 @@
                 }
             }
         },
-        "winRate": "47.84"
+        "winRate": "47.83"
     },
     "enchantress": {
         "Ally": {
@@ -28002,6 +28250,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.46",
                     "winRateAsAlly": "42.70"
+                },
+                "furion": {
+                    "co-opIndex": "6.20",
+                    "winRateAsAlly": "39.70"
                 },
                 "gyrocopter": {
                     "co-opIndex": "6.20",
@@ -28451,6 +28703,10 @@
                     "co-opIndex": "3.10",
                     "winRateAsAlly": "46.14"
                 },
+                "furion": {
+                    "co-opIndex": "-3.85",
+                    "winRateAsAlly": "47.33"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.10",
                     "winRateAsAlly": "49.04"
@@ -28765,7 +29021,7 @@
                 }
             }
         },
-        "winRate": "43.21"
+        "winRate": "43.23"
     },
     "enigma": {
         "Ally": {
@@ -28901,6 +29157,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.39",
                     "winRateAsAlly": "50.49"
+                },
+                "furion": {
+                    "co-opIndex": "-0.47",
+                    "winRateAsAlly": "46.49"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.68",
@@ -29349,6 +29609,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.18",
                     "winRateAsAlly": "54.22"
+                },
+                "furion": {
+                    "co-opIndex": "-4.86",
+                    "winRateAsAlly": "55.88"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.81",
@@ -29801,6 +30065,10 @@
                     "co-opIndex": "-1.39",
                     "winRateAsAlly": "50.49"
                 },
+                "furion": {
+                    "co-opIndex": "1.22",
+                    "winRateAsAlly": "42.96"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.97",
                     "winRateAsAlly": "43.07"
@@ -30249,6 +30517,10 @@
                     "co-opIndex": "0.21",
                     "winRateAsAlly": "45.78"
                 },
+                "furion": {
+                    "co-opIndex": "-0.55",
+                    "winRateAsAlly": "54.18"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.16",
                     "winRateAsAlly": "54.34"
@@ -30563,10 +30835,914 @@
                 }
             }
         },
-        "winRate": "48.44"
+        "winRate": "48.45"
     },
     "furion": {
-        "winRate": "43.97"
+        "Ally": {
+            "furion": {
+                "abaddon": {
+                    "co-opIndex": "-1.82",
+                    "winRateAsAlly": "49.24"
+                },
+                "abyssal_underlord": {
+                    "co-opIndex": "0.03",
+                    "winRateAsAlly": "46.21"
+                },
+                "alchemist": {
+                    "co-opIndex": "-3.84",
+                    "winRateAsAlly": "39.55"
+                },
+                "ancient_apparition": {
+                    "co-opIndex": "0.67",
+                    "winRateAsAlly": "44.91"
+                },
+                "antimage": {
+                    "co-opIndex": "-3.04",
+                    "winRateAsAlly": "40.89"
+                },
+                "arc_warden": {
+                    "co-opIndex": "7.19",
+                    "winRateAsAlly": "40.84"
+                },
+                "axe": {
+                    "co-opIndex": "0.20",
+                    "winRateAsAlly": "49.01"
+                },
+                "bane": {
+                    "co-opIndex": "6.01",
+                    "winRateAsAlly": "41.73"
+                },
+                "batrider": {
+                    "co-opIndex": "6.04",
+                    "winRateAsAlly": "39.93"
+                },
+                "beastmaster": {
+                    "co-opIndex": "4.13",
+                    "winRateAsAlly": "40.89"
+                },
+                "bloodseeker": {
+                    "co-opIndex": "0.08",
+                    "winRateAsAlly": "45.14"
+                },
+                "bounty_hunter": {
+                    "co-opIndex": "0.04",
+                    "winRateAsAlly": "41.59"
+                },
+                "brewmaster": {
+                    "co-opIndex": "5.89",
+                    "winRateAsAlly": "44.44"
+                },
+                "bristleback": {
+                    "co-opIndex": "3.74",
+                    "winRateAsAlly": "46.91"
+                },
+                "broodmother": {
+                    "co-opIndex": "7.70",
+                    "winRateAsAlly": "37.54"
+                },
+                "centaur": {
+                    "co-opIndex": "-0.80",
+                    "winRateAsAlly": "48.77"
+                },
+                "chaos_knight": {
+                    "co-opIndex": "1.88",
+                    "winRateAsAlly": "48.31"
+                },
+                "chen": {
+                    "co-opIndex": "-0.79",
+                    "winRateAsAlly": "35.66"
+                },
+                "clinkz": {
+                    "co-opIndex": "2.98",
+                    "winRateAsAlly": "41.90"
+                },
+                "crystal_maiden": {
+                    "co-opIndex": "0.15",
+                    "winRateAsAlly": "48.95"
+                },
+                "dark_seer": {
+                    "co-opIndex": "0.79",
+                    "winRateAsAlly": "42.96"
+                },
+                "dazzle": {
+                    "co-opIndex": "0.52",
+                    "winRateAsAlly": "44.96"
+                },
+                "death_prophet": {
+                    "co-opIndex": "7.88",
+                    "winRateAsAlly": "42.23"
+                },
+                "disruptor": {
+                    "co-opIndex": "-0.84",
+                    "winRateAsAlly": "43.83"
+                },
+                "doom_bringer": {
+                    "co-opIndex": "1.39",
+                    "winRateAsAlly": "37.96"
+                },
+                "dragon_knight": {
+                    "co-opIndex": "1.72",
+                    "winRateAsAlly": "45.41"
+                },
+                "drow_ranger": {
+                    "co-opIndex": "7.32",
+                    "winRateAsAlly": "46.38"
+                },
+                "earth_spirit": {
+                    "co-opIndex": "-2.32",
+                    "winRateAsAlly": "35.44"
+                },
+                "earthshaker": {
+                    "co-opIndex": "0.54",
+                    "winRateAsAlly": "44.73"
+                },
+                "elder_titan": {
+                    "co-opIndex": "3.19",
+                    "winRateAsAlly": "46.94"
+                },
+                "ember_spirit": {
+                    "co-opIndex": "-1.57",
+                    "winRateAsAlly": "41.20"
+                },
+                "enchantress": {
+                    "co-opIndex": "6.20",
+                    "winRateAsAlly": "39.70"
+                },
+                "enigma": {
+                    "co-opIndex": "-0.47",
+                    "winRateAsAlly": "46.49"
+                },
+                "faceless_void": {
+                    "co-opIndex": "1.22",
+                    "winRateAsAlly": "42.96"
+                },
+                "gyrocopter": {
+                    "co-opIndex": "4.37",
+                    "winRateAsAlly": "40.01"
+                },
+                "huskar": {
+                    "co-opIndex": "3.88",
+                    "winRateAsAlly": "40.04"
+                },
+                "invoker": {
+                    "co-opIndex": "-1.41",
+                    "winRateAsAlly": "41.25"
+                },
+                "jakiro": {
+                    "co-opIndex": "0.21",
+                    "winRateAsAlly": "47.11"
+                },
+                "juggernaut": {
+                    "co-opIndex": "-3.99",
+                    "winRateAsAlly": "42.55"
+                },
+                "keeper_of_the_light": {
+                    "co-opIndex": "-2.13",
+                    "winRateAsAlly": "42.42"
+                },
+                "kunkka": {
+                    "co-opIndex": "-2.25",
+                    "winRateAsAlly": "37.83"
+                },
+                "legion_commander": {
+                    "co-opIndex": "-2.81",
+                    "winRateAsAlly": "42.50"
+                },
+                "leshrac": {
+                    "co-opIndex": "4.71",
+                    "winRateAsAlly": "40.73"
+                },
+                "lich": {
+                    "co-opIndex": "0.38",
+                    "winRateAsAlly": "47.12"
+                },
+                "life_stealer": {
+                    "co-opIndex": "-3.63",
+                    "winRateAsAlly": "40.59"
+                },
+                "lina": {
+                    "co-opIndex": "-0.12",
+                    "winRateAsAlly": "41.22"
+                },
+                "lion": {
+                    "co-opIndex": "0.26",
+                    "winRateAsAlly": "43.09"
+                },
+                "lone_druid": {
+                    "co-opIndex": "-0.61",
+                    "winRateAsAlly": "34.15"
+                },
+                "luna": {
+                    "co-opIndex": "0.03",
+                    "winRateAsAlly": "45.79"
+                },
+                "lycan": {
+                    "co-opIndex": "3.78",
+                    "winRateAsAlly": "47.50"
+                },
+                "magnataur": {
+                    "co-opIndex": "-3.78",
+                    "winRateAsAlly": "38.89"
+                },
+                "medusa": {
+                    "co-opIndex": "-0.24",
+                    "winRateAsAlly": "43.45"
+                },
+                "meepo": {
+                    "co-opIndex": "-0.91",
+                    "winRateAsAlly": "36.76"
+                },
+                "mirana": {
+                    "co-opIndex": "-1.89",
+                    "winRateAsAlly": "42.52"
+                },
+                "monkey_king": {
+                    "co-opIndex": "-1.98",
+                    "winRateAsAlly": "37.40"
+                },
+                "morphling": {
+                    "co-opIndex": "-2.22",
+                    "winRateAsAlly": "39.04"
+                },
+                "naga_siren": {
+                    "co-opIndex": "4.92",
+                    "winRateAsAlly": "41.80"
+                },
+                "necrolyte": {
+                    "co-opIndex": "0.82",
+                    "winRateAsAlly": "49.92"
+                },
+                "nevermore": {
+                    "co-opIndex": "-3.10",
+                    "winRateAsAlly": "42.95"
+                },
+                "night_stalker": {
+                    "co-opIndex": "4.27",
+                    "winRateAsAlly": "45.82"
+                },
+                "nyx_assassin": {
+                    "co-opIndex": "0.76",
+                    "winRateAsAlly": "43.80"
+                },
+                "obsidian_destroyer": {
+                    "co-opIndex": "-1.11",
+                    "winRateAsAlly": "41.50"
+                },
+                "ogre_magi": {
+                    "co-opIndex": "-1.08",
+                    "winRateAsAlly": "45.21"
+                },
+                "omniknight": {
+                    "co-opIndex": "0.24",
+                    "winRateAsAlly": "48.18"
+                },
+                "oracle": {
+                    "co-opIndex": "6.44",
+                    "winRateAsAlly": "38.48"
+                },
+                "phantom_assassin": {
+                    "co-opIndex": "0.12",
+                    "winRateAsAlly": "47.35"
+                },
+                "phantom_lancer": {
+                    "co-opIndex": "2.13",
+                    "winRateAsAlly": "41.06"
+                },
+                "phoenix": {
+                    "co-opIndex": "0.14",
+                    "winRateAsAlly": "44.39"
+                },
+                "puck": {
+                    "co-opIndex": "1.21",
+                    "winRateAsAlly": "37.87"
+                },
+                "pudge": {
+                    "co-opIndex": "-1.02",
+                    "winRateAsAlly": "45.76"
+                },
+                "pugna": {
+                    "co-opIndex": "3.20",
+                    "winRateAsAlly": "42.80"
+                },
+                "queenofpain": {
+                    "co-opIndex": "1.18",
+                    "winRateAsAlly": "37.22"
+                },
+                "rattletrap": {
+                    "co-opIndex": "3.66",
+                    "winRateAsAlly": "46.48"
+                },
+                "razor": {
+                    "co-opIndex": "6.41",
+                    "winRateAsAlly": "41.76"
+                },
+                "riki": {
+                    "co-opIndex": "0.38",
+                    "winRateAsAlly": "49.21"
+                },
+                "rubick": {
+                    "co-opIndex": "-1.69",
+                    "winRateAsAlly": "39.24"
+                },
+                "sand_king": {
+                    "co-opIndex": "0.65",
+                    "winRateAsAlly": "44.30"
+                },
+                "shadow_demon": {
+                    "co-opIndex": "0.96",
+                    "winRateAsAlly": "38.76"
+                },
+                "shadow_shaman": {
+                    "co-opIndex": "3.02",
+                    "winRateAsAlly": "47.28"
+                },
+                "shredder": {
+                    "co-opIndex": "-1.55",
+                    "winRateAsAlly": "40.54"
+                },
+                "silencer": {
+                    "co-opIndex": "-2.06",
+                    "winRateAsAlly": "45.72"
+                },
+                "skeleton_king": {
+                    "co-opIndex": "0.09",
+                    "winRateAsAlly": "50.87"
+                },
+                "skywrath_mage": {
+                    "co-opIndex": "3.09",
+                    "winRateAsAlly": "43.62"
+                },
+                "slardar": {
+                    "co-opIndex": "1.41",
+                    "winRateAsAlly": "43.39"
+                },
+                "slark": {
+                    "co-opIndex": "-0.40",
+                    "winRateAsAlly": "41.80"
+                },
+                "sniper": {
+                    "co-opIndex": "-2.25",
+                    "winRateAsAlly": "43.48"
+                },
+                "spectre": {
+                    "co-opIndex": "-0.15",
+                    "winRateAsAlly": "52.48"
+                },
+                "spirit_breaker": {
+                    "co-opIndex": "1.09",
+                    "winRateAsAlly": "48.73"
+                },
+                "storm_spirit": {
+                    "co-opIndex": "-0.76",
+                    "winRateAsAlly": "41.97"
+                },
+                "sven": {
+                    "co-opIndex": "-0.72",
+                    "winRateAsAlly": "43.31"
+                },
+                "techies": {
+                    "co-opIndex": "-0.43",
+                    "winRateAsAlly": "45.12"
+                },
+                "templar_assassin": {
+                    "co-opIndex": "-0.52",
+                    "winRateAsAlly": "42.26"
+                },
+                "terrorblade": {
+                    "co-opIndex": "1.84",
+                    "winRateAsAlly": "44.72"
+                },
+                "tidehunter": {
+                    "co-opIndex": "-0.93",
+                    "winRateAsAlly": "44.79"
+                },
+                "tinker": {
+                    "co-opIndex": "0.65",
+                    "winRateAsAlly": "43.03"
+                },
+                "tiny": {
+                    "co-opIndex": "2.32",
+                    "winRateAsAlly": "39.50"
+                },
+                "treant": {
+                    "co-opIndex": "-0.23",
+                    "winRateAsAlly": "46.73"
+                },
+                "troll_warlord": {
+                    "co-opIndex": "0.92",
+                    "winRateAsAlly": "47.78"
+                },
+                "tusk": {
+                    "co-opIndex": "-0.70",
+                    "winRateAsAlly": "36.49"
+                },
+                "undying": {
+                    "co-opIndex": "0.95",
+                    "winRateAsAlly": "45.08"
+                },
+                "ursa": {
+                    "co-opIndex": "3.92",
+                    "winRateAsAlly": "49.02"
+                },
+                "vengefulspirit": {
+                    "co-opIndex": "2.01",
+                    "winRateAsAlly": "47.27"
+                },
+                "venomancer": {
+                    "co-opIndex": "0.17",
+                    "winRateAsAlly": "45.89"
+                },
+                "viper": {
+                    "co-opIndex": "2.03",
+                    "winRateAsAlly": "43.83"
+                },
+                "visage": {
+                    "co-opIndex": "6.86",
+                    "winRateAsAlly": "44.89"
+                },
+                "warlock": {
+                    "co-opIndex": "1.70",
+                    "winRateAsAlly": "47.08"
+                },
+                "weaver": {
+                    "co-opIndex": "1.59",
+                    "winRateAsAlly": "45.06"
+                },
+                "windrunner": {
+                    "co-opIndex": "1.66",
+                    "winRateAsAlly": "40.58"
+                },
+                "winter_wyvern": {
+                    "co-opIndex": "2.12",
+                    "winRateAsAlly": "41.57"
+                },
+                "wisp": {
+                    "co-opIndex": "-3.69",
+                    "winRateAsAlly": "31.14"
+                },
+                "witch_doctor": {
+                    "co-opIndex": "0.82",
+                    "winRateAsAlly": "45.72"
+                },
+                "zuus": {
+                    "co-opIndex": "4.17",
+                    "winRateAsAlly": "52.30"
+                }
+            }
+        },
+        "Enemy": {
+            "furion": {
+                "abaddon": {
+                    "co-opIndex": "4.28",
+                    "winRateAsAlly": "39.63"
+                },
+                "abyssal_underlord": {
+                    "co-opIndex": "1.79",
+                    "winRateAsAlly": "42.52"
+                },
+                "alchemist": {
+                    "co-opIndex": "-1.94",
+                    "winRateAsAlly": "46.00"
+                },
+                "ancient_apparition": {
+                    "co-opIndex": "4.88",
+                    "winRateAsAlly": "45.45"
+                },
+                "antimage": {
+                    "co-opIndex": "-4.27",
+                    "winRateAsAlly": "43.85"
+                },
+                "arc_warden": {
+                    "co-opIndex": "1.54",
+                    "winRateAsAlly": "50.76"
+                },
+                "axe": {
+                    "co-opIndex": "-1.99",
+                    "winRateAsAlly": "38.40"
+                },
+                "bane": {
+                    "co-opIndex": "2.46",
+                    "winRateAsAlly": "49.89"
+                },
+                "batrider": {
+                    "co-opIndex": "1.46",
+                    "winRateAsAlly": "51.24"
+                },
+                "beastmaster": {
+                    "co-opIndex": "-0.34",
+                    "winRateAsAlly": "48.64"
+                },
+                "bloodseeker": {
+                    "co-opIndex": "-0.16",
+                    "winRateAsAlly": "42.79"
+                },
+                "bounty_hunter": {
+                    "co-opIndex": "-0.95",
+                    "winRateAsAlly": "45.96"
+                },
+                "brewmaster": {
+                    "co-opIndex": "3.09",
+                    "winRateAsAlly": "47.41"
+                },
+                "bristleback": {
+                    "co-opIndex": "1.02",
+                    "winRateAsAlly": "43.14"
+                },
+                "broodmother": {
+                    "co-opIndex": "0.96",
+                    "winRateAsAlly": "54.03"
+                },
+                "centaur": {
+                    "co-opIndex": "-0.58",
+                    "winRateAsAlly": "38.72"
+                },
+                "chaos_knight": {
+                    "co-opIndex": "-0.63",
+                    "winRateAsAlly": "40.34"
+                },
+                "chen": {
+                    "co-opIndex": "4.07",
+                    "winRateAsAlly": "54.48"
+                },
+                "clinkz": {
+                    "co-opIndex": "0.80",
+                    "winRateAsAlly": "47.70"
+                },
+                "crystal_maiden": {
+                    "co-opIndex": "-1.47",
+                    "winRateAsAlly": "38.63"
+                },
+                "dark_seer": {
+                    "co-opIndex": "3.39",
+                    "winRateAsAlly": "46.89"
+                },
+                "dazzle": {
+                    "co-opIndex": "3.08",
+                    "winRateAsAlly": "44.57"
+                },
+                "death_prophet": {
+                    "co-opIndex": "3.79",
+                    "winRateAsAlly": "50.74"
+                },
+                "disruptor": {
+                    "co-opIndex": "3.91",
+                    "winRateAsAlly": "45.47"
+                },
+                "doom_bringer": {
+                    "co-opIndex": "-0.91",
+                    "winRateAsAlly": "50.26"
+                },
+                "dragon_knight": {
+                    "co-opIndex": "0.38",
+                    "winRateAsAlly": "43.48"
+                },
+                "drow_ranger": {
+                    "co-opIndex": "1.67",
+                    "winRateAsAlly": "45.49"
+                },
+                "earth_spirit": {
+                    "co-opIndex": "1.27",
+                    "winRateAsAlly": "52.63"
+                },
+                "earthshaker": {
+                    "co-opIndex": "0.06",
+                    "winRateAsAlly": "43.49"
+                },
+                "elder_titan": {
+                    "co-opIndex": "6.99",
+                    "winRateAsAlly": "45.46"
+                },
+                "ember_spirit": {
+                    "co-opIndex": "-0.77",
+                    "winRateAsAlly": "45.78"
+                },
+                "enchantress": {
+                    "co-opIndex": "3.85",
+                    "winRateAsAlly": "52.72"
+                },
+                "enigma": {
+                    "co-opIndex": "6.91",
+                    "winRateAsAlly": "44.13"
+                },
+                "faceless_void": {
+                    "co-opIndex": "0.67",
+                    "winRateAsAlly": "45.83"
+                },
+                "gyrocopter": {
+                    "co-opIndex": "1.58",
+                    "winRateAsAlly": "50.58"
+                },
+                "huskar": {
+                    "co-opIndex": "0.79",
+                    "winRateAsAlly": "49.95"
+                },
+                "invoker": {
+                    "co-opIndex": "0.91",
+                    "winRateAsAlly": "46.56"
+                },
+                "jakiro": {
+                    "co-opIndex": "2.13",
+                    "winRateAsAlly": "41.87"
+                },
+                "juggernaut": {
+                    "co-opIndex": "1.85",
+                    "winRateAsAlly": "44.46"
+                },
+                "keeper_of_the_light": {
+                    "co-opIndex": "1.02",
+                    "winRateAsAlly": "45.08"
+                },
+                "kunkka": {
+                    "co-opIndex": "2.53",
+                    "winRateAsAlly": "50.64"
+                },
+                "legion_commander": {
+                    "co-opIndex": "-4.71",
+                    "winRateAsAlly": "42.14"
+                },
+                "leshrac": {
+                    "co-opIndex": "2.06",
+                    "winRateAsAlly": "50.22"
+                },
+                "lich": {
+                    "co-opIndex": "6.44",
+                    "winRateAsAlly": "43.70"
+                },
+                "life_stealer": {
+                    "co-opIndex": "3.13",
+                    "winRateAsAlly": "47.30"
+                },
+                "lina": {
+                    "co-opIndex": "-0.35",
+                    "winRateAsAlly": "46.56"
+                },
+                "lion": {
+                    "co-opIndex": "1.15",
+                    "winRateAsAlly": "45.50"
+                },
+                "lone_druid": {
+                    "co-opIndex": "2.11",
+                    "winRateAsAlly": "55.23"
+                },
+                "luna": {
+                    "co-opIndex": "0.96",
+                    "winRateAsAlly": "42.61"
+                },
+                "lycan": {
+                    "co-opIndex": "1.89",
+                    "winRateAsAlly": "43.00"
+                },
+                "magnataur": {
+                    "co-opIndex": "-0.01",
+                    "winRateAsAlly": "47.61"
+                },
+                "medusa": {
+                    "co-opIndex": "1.45",
+                    "winRateAsAlly": "45.06"
+                },
+                "meepo": {
+                    "co-opIndex": "-2.28",
+                    "winRateAsAlly": "49.92"
+                },
+                "mirana": {
+                    "co-opIndex": "-1.63",
+                    "winRateAsAlly": "43.90"
+                },
+                "monkey_king": {
+                    "co-opIndex": "-0.03",
+                    "winRateAsAlly": "49.97"
+                },
+                "morphling": {
+                    "co-opIndex": "-1.53",
+                    "winRateAsAlly": "47.38"
+                },
+                "naga_siren": {
+                    "co-opIndex": "-1.58",
+                    "winRateAsAlly": "47.44"
+                },
+                "necrolyte": {
+                    "co-opIndex": "0.44",
+                    "winRateAsAlly": "38.77"
+                },
+                "nevermore": {
+                    "co-opIndex": "-3.29",
+                    "winRateAsAlly": "42.20"
+                },
+                "night_stalker": {
+                    "co-opIndex": "1.69",
+                    "winRateAsAlly": "44.76"
+                },
+                "nyx_assassin": {
+                    "co-opIndex": "-0.52",
+                    "winRateAsAlly": "44.26"
+                },
+                "obsidian_destroyer": {
+                    "co-opIndex": "2.48",
+                    "winRateAsAlly": "47.17"
+                },
+                "ogre_magi": {
+                    "co-opIndex": "-0.88",
+                    "winRateAsAlly": "41.89"
+                },
+                "omniknight": {
+                    "co-opIndex": "3.84",
+                    "winRateAsAlly": "41.50"
+                },
+                "oracle": {
+                    "co-opIndex": "6.49",
+                    "winRateAsAlly": "55.50"
+                },
+                "phantom_assassin": {
+                    "co-opIndex": "-3.21",
+                    "winRateAsAlly": "39.41"
+                },
+                "phantom_lancer": {
+                    "co-opIndex": "0.45",
+                    "winRateAsAlly": "48.05"
+                },
+                "phoenix": {
+                    "co-opIndex": "1.89",
+                    "winRateAsAlly": "44.46"
+                },
+                "puck": {
+                    "co-opIndex": "-0.07",
+                    "winRateAsAlly": "50.73"
+                },
+                "pudge": {
+                    "co-opIndex": "0.39",
+                    "winRateAsAlly": "41.93"
+                },
+                "pugna": {
+                    "co-opIndex": "4.17",
+                    "winRateAsAlly": "48.45"
+                },
+                "queenofpain": {
+                    "co-opIndex": "0.39",
+                    "winRateAsAlly": "51.59"
+                },
+                "rattletrap": {
+                    "co-opIndex": "0.13",
+                    "winRateAsAlly": "43.16"
+                },
+                "razor": {
+                    "co-opIndex": "3.31",
+                    "winRateAsAlly": "50.44"
+                },
+                "riki": {
+                    "co-opIndex": "1.45",
+                    "winRateAsAlly": "39.61"
+                },
+                "rubick": {
+                    "co-opIndex": "0.10",
+                    "winRateAsAlly": "48.17"
+                },
+                "sand_king": {
+                    "co-opIndex": "-2.59",
+                    "winRateAsAlly": "42.81"
+                },
+                "shadow_demon": {
+                    "co-opIndex": "1.49",
+                    "winRateAsAlly": "50.47"
+                },
+                "shadow_shaman": {
+                    "co-opIndex": "2.95",
+                    "winRateAsAlly": "43.31"
+                },
+                "shredder": {
+                    "co-opIndex": "-4.06",
+                    "winRateAsAlly": "44.92"
+                },
+                "silencer": {
+                    "co-opIndex": "3.17",
+                    "winRateAsAlly": "42.62"
+                },
+                "skeleton_king": {
+                    "co-opIndex": "1.69",
+                    "winRateAsAlly": "37.98"
+                },
+                "skywrath_mage": {
+                    "co-opIndex": "3.18",
+                    "winRateAsAlly": "47.10"
+                },
+                "slardar": {
+                    "co-opIndex": "-2.04",
+                    "winRateAsAlly": "44.26"
+                },
+                "slark": {
+                    "co-opIndex": "-4.40",
+                    "winRateAsAlly": "43.98"
+                },
+                "sniper": {
+                    "co-opIndex": "3.22",
+                    "winRateAsAlly": "44.88"
+                },
+                "spectre": {
+                    "co-opIndex": "-9.51",
+                    "winRateAsAlly": "32.33"
+                },
+                "spirit_breaker": {
+                    "co-opIndex": "-4.76",
+                    "winRateAsAlly": "37.93"
+                },
+                "storm_spirit": {
+                    "co-opIndex": "-5.94",
+                    "winRateAsAlly": "42.95"
+                },
+                "sven": {
+                    "co-opIndex": "3.06",
+                    "winRateAsAlly": "45.69"
+                },
+                "techies": {
+                    "co-opIndex": "2.56",
+                    "winRateAsAlly": "43.76"
+                },
+                "templar_assassin": {
+                    "co-opIndex": "-2.87",
+                    "winRateAsAlly": "44.17"
+                },
+                "terrorblade": {
+                    "co-opIndex": "0.51",
+                    "winRateAsAlly": "44.27"
+                },
+                "tidehunter": {
+                    "co-opIndex": "2.87",
+                    "winRateAsAlly": "43.98"
+                },
+                "tinker": {
+                    "co-opIndex": "-2.35",
+                    "winRateAsAlly": "44.15"
+                },
+                "tiny": {
+                    "co-opIndex": "0.13",
+                    "winRateAsAlly": "49.56"
+                },
+                "treant": {
+                    "co-opIndex": "-0.84",
+                    "winRateAsAlly": "40.82"
+                },
+                "troll_warlord": {
+                    "co-opIndex": "0.43",
+                    "winRateAsAlly": "40.83"
+                },
+                "tusk": {
+                    "co-opIndex": "-1.15",
+                    "winRateAsAlly": "50.89"
+                },
+                "undying": {
+                    "co-opIndex": "5.22",
+                    "winRateAsAlly": "45.58"
+                },
+                "ursa": {
+                    "co-opIndex": "4.20",
+                    "winRateAsAlly": "42.56"
+                },
+                "vengefulspirit": {
+                    "co-opIndex": "-1.48",
+                    "winRateAsAlly": "41.03"
+                },
+                "venomancer": {
+                    "co-opIndex": "4.88",
+                    "winRateAsAlly": "44.21"
+                },
+                "viper": {
+                    "co-opIndex": "3.45",
+                    "winRateAsAlly": "46.55"
+                },
+                "visage": {
+                    "co-opIndex": "5.63",
+                    "winRateAsAlly": "48.56"
+                },
+                "warlock": {
+                    "co-opIndex": "5.31",
+                    "winRateAsAlly": "43.90"
+                },
+                "weaver": {
+                    "co-opIndex": "0.79",
+                    "winRateAsAlly": "43.95"
+                },
+                "windrunner": {
+                    "co-opIndex": "0.98",
+                    "winRateAsAlly": "48.60"
+                },
+                "winter_wyvern": {
+                    "co-opIndex": "2.23",
+                    "winRateAsAlly": "48.35"
+                },
+                "wisp": {
+                    "co-opIndex": "1.35",
+                    "winRateAsAlly": "57.08"
+                },
+                "witch_doctor": {
+                    "co-opIndex": "6.19",
+                    "winRateAsAlly": "45.26"
+                },
+                "zuus": {
+                    "co-opIndex": "-2.12",
+                    "winRateAsAlly": "37.11"
+                }
+            }
+        },
+        "winRate": "43.98"
     },
     "gyrocopter": {
         "Ally": {
@@ -30706,6 +31882,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.97",
                     "winRateAsAlly": "43.07"
+                },
+                "furion": {
+                    "co-opIndex": "4.37",
+                    "winRateAsAlly": "40.01"
                 },
                 "huskar": {
                     "co-opIndex": "4.50",
@@ -31155,6 +32335,10 @@
                     "co-opIndex": "-0.19",
                     "winRateAsAlly": "45.66"
                 },
+                "furion": {
+                    "co-opIndex": "-1.58",
+                    "winRateAsAlly": "49.43"
+                },
                 "huskar": {
                     "co-opIndex": "-2.69",
                     "winRateAsAlly": "48.44"
@@ -31465,7 +32649,7 @@
                 }
             }
         },
-        "winRate": "44.20"
+        "winRate": "44.19"
     },
     "huskar": {
         "Ally": {
@@ -31605,6 +32789,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.69",
                     "winRateAsAlly": "43.17"
+                },
+                "furion": {
+                    "co-opIndex": "3.88",
+                    "winRateAsAlly": "40.04"
                 },
                 "gyrocopter": {
                     "co-opIndex": "4.50",
@@ -32053,6 +33241,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.40",
                     "winRateAsAlly": "46.15"
+                },
+                "furion": {
+                    "co-opIndex": "-0.80",
+                    "winRateAsAlly": "50.04"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.66",
@@ -32505,6 +33697,10 @@
                     "co-opIndex": "1.85",
                     "winRateAsAlly": "47.11"
                 },
+                "furion": {
+                    "co-opIndex": "-1.41",
+                    "winRateAsAlly": "41.25"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-5.84",
                     "winRateAsAlly": "39.60"
@@ -32953,6 +34149,10 @@
                     "co-opIndex": "-1.82",
                     "winRateAsAlly": "48.48"
                 },
+                "furion": {
+                    "co-opIndex": "-0.76",
+                    "winRateAsAlly": "53.45"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.35",
                     "winRateAsAlly": "54.36"
@@ -33263,7 +34463,7 @@
                 }
             }
         },
-        "winRate": "47.82"
+        "winRate": "47.83"
     },
     "jakiro": {
         "Ally": {
@@ -33403,6 +34603,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.62",
                     "winRateAsAlly": "52.85"
+                },
+                "furion": {
+                    "co-opIndex": "0.21",
+                    "winRateAsAlly": "47.11"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.91",
@@ -33852,6 +35056,10 @@
                     "co-opIndex": "1.19",
                     "winRateAsAlly": "55.27"
                 },
+                "furion": {
+                    "co-opIndex": "-1.46",
+                    "winRateAsAlly": "58.16"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.84",
                     "winRateAsAlly": "57.72"
@@ -34162,7 +35370,7 @@
                 }
             }
         },
-        "winRate": "53.06"
+        "winRate": "53.05"
     },
     "juggernaut": {
         "Ally": {
@@ -34302,6 +35510,10 @@
                 "faceless_void": {
                     "co-opIndex": "-3.61",
                     "winRateAsAlly": "47.03"
+                },
+                "furion": {
+                    "co-opIndex": "-3.99",
+                    "winRateAsAlly": "42.55"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.38",
@@ -34751,6 +35963,10 @@
                     "co-opIndex": "-2.89",
                     "winRateAsAlly": "50.41"
                 },
+                "furion": {
+                    "co-opIndex": "-1.42",
+                    "winRateAsAlly": "55.57"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.79",
                     "winRateAsAlly": "57.72"
@@ -35061,7 +36277,7 @@
                 }
             }
         },
-        "winRate": "50.35"
+        "winRate": "50.34"
     },
     "keeper_of_the_light": {
         "Ally": {
@@ -35201,6 +36417,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.93",
                     "winRateAsAlly": "48.24"
+                },
+                "furion": {
+                    "co-opIndex": "-2.13",
+                    "winRateAsAlly": "42.42"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-5.61",
@@ -35650,6 +36870,10 @@
                     "co-opIndex": "-1.13",
                     "winRateAsAlly": "50.35"
                 },
+                "furion": {
+                    "co-opIndex": "-0.71",
+                    "winRateAsAlly": "55.00"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.65",
                     "winRateAsAlly": "56.63"
@@ -35960,7 +37184,7 @@
                 }
             }
         },
-        "winRate": "49.36"
+        "winRate": "49.35"
     },
     "kunkka": {
         "Ally": {
@@ -36100,6 +37324,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.53",
                     "winRateAsAlly": "43.70"
+                },
+                "furion": {
+                    "co-opIndex": "-2.25",
+                    "winRateAsAlly": "37.83"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.16",
@@ -36549,6 +37777,10 @@
                     "co-opIndex": "-0.94",
                     "winRateAsAlly": "45.70"
                 },
+                "furion": {
+                    "co-opIndex": "-2.37",
+                    "winRateAsAlly": "49.41"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.79",
                     "winRateAsAlly": "49.99"
@@ -36859,7 +38091,7 @@
                 }
             }
         },
-        "winRate": "44.58"
+        "winRate": "44.59"
     },
     "legion_commander": {
         "Ally": {
@@ -36999,6 +38231,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.68",
                     "winRateAsAlly": "48.51"
+                },
+                "furion": {
+                    "co-opIndex": "-2.81",
+                    "winRateAsAlly": "42.50"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.12",
@@ -37448,6 +38684,10 @@
                     "co-opIndex": "-0.40",
                     "winRateAsAlly": "51.10"
                 },
+                "furion": {
+                    "co-opIndex": "3.75",
+                    "winRateAsAlly": "57.87"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.19",
                     "winRateAsAlly": "56.77"
@@ -37758,7 +38998,7 @@
                 }
             }
         },
-        "winRate": "49.74"
+        "winRate": "49.75"
     },
     "leshrac": {
         "Ally": {
@@ -37898,6 +39138,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.86",
                     "winRateAsAlly": "44.48"
+                },
+                "furion": {
+                    "co-opIndex": "4.71",
+                    "winRateAsAlly": "40.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "4.88",
@@ -38347,6 +39591,10 @@
                     "co-opIndex": "1.55",
                     "winRateAsAlly": "47.05"
                 },
+                "furion": {
+                    "co-opIndex": "-2.02",
+                    "winRateAsAlly": "49.79"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.77",
                     "winRateAsAlly": "49.69"
@@ -38657,7 +39905,7 @@
                 }
             }
         },
-        "winRate": "44.78"
+        "winRate": "44.77"
     },
     "lich": {
         "Ally": {
@@ -38797,6 +40045,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.00",
                     "winRateAsAlly": "51.95"
+                },
+                "furion": {
+                    "co-opIndex": "0.38",
+                    "winRateAsAlly": "47.12"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.60",
@@ -39245,6 +40497,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.11",
                     "winRateAsAlly": "54.49"
+                },
+                "furion": {
+                    "co-opIndex": "-4.44",
+                    "winRateAsAlly": "56.34"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.53",
@@ -39697,6 +40953,10 @@
                     "co-opIndex": "-3.09",
                     "winRateAsAlly": "45.11"
                 },
+                "furion": {
+                    "co-opIndex": "-3.63",
+                    "winRateAsAlly": "40.59"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.18",
                     "winRateAsAlly": "43.26"
@@ -40145,6 +41405,10 @@
                     "co-opIndex": "-6.16",
                     "winRateAsAlly": "46.61"
                 },
+                "furion": {
+                    "co-opIndex": "-2.66",
+                    "winRateAsAlly": "52.71"
+                },
                 "gyrocopter": {
                     "co-opIndex": "3.59",
                     "winRateAsAlly": "55.87"
@@ -40455,7 +41719,7 @@
                 }
             }
         },
-        "winRate": "48.11"
+        "winRate": "48.09"
     },
     "lina": {
         "Ally": {
@@ -40595,6 +41859,10 @@
                 "faceless_void": {
                     "co-opIndex": "4.10",
                     "winRateAsAlly": "47.55"
+                },
+                "furion": {
+                    "co-opIndex": "-0.12",
+                    "winRateAsAlly": "41.22"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-3.48",
@@ -41044,6 +42312,10 @@
                     "co-opIndex": "0.42",
                     "winRateAsAlly": "49.00"
                 },
+                "furion": {
+                    "co-opIndex": "0.35",
+                    "winRateAsAlly": "53.47"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.03",
                     "winRateAsAlly": "53.60"
@@ -41354,7 +42626,7 @@
                 }
             }
         },
-        "winRate": "47.23"
+        "winRate": "47.24"
     },
     "lion": {
         "Ally": {
@@ -41494,6 +42766,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.07",
                     "winRateAsAlly": "47.93"
+                },
+                "furion": {
+                    "co-opIndex": "0.26",
+                    "winRateAsAlly": "43.09"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.35",
@@ -41943,6 +43219,10 @@
                     "co-opIndex": "2.02",
                     "winRateAsAlly": "51.57"
                 },
+                "furion": {
+                    "co-opIndex": "-0.91",
+                    "winRateAsAlly": "54.52"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.82",
                     "winRateAsAlly": "54.35"
@@ -42253,7 +43533,7 @@
                 }
             }
         },
-        "winRate": "48.99"
+        "winRate": "48.98"
     },
     "lone_druid": {
         "Ally": {
@@ -42393,6 +43673,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.68",
                     "winRateAsAlly": "39.16"
+                },
+                "furion": {
+                    "co-opIndex": "-0.61",
+                    "winRateAsAlly": "34.15"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.12",
@@ -42842,6 +44126,10 @@
                     "co-opIndex": "0.89",
                     "winRateAsAlly": "41.89"
                 },
+                "furion": {
+                    "co-opIndex": "-2.53",
+                    "winRateAsAlly": "44.77"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.47",
                     "winRateAsAlly": "45.50"
@@ -43152,7 +44440,7 @@
                 }
             }
         },
-        "winRate": "40.01"
+        "winRate": "39.99"
     },
     "luna": {
         "Ally": {
@@ -43292,6 +44580,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.78",
                     "winRateAsAlly": "51.15"
+                },
+                "furion": {
+                    "co-opIndex": "0.03",
+                    "winRateAsAlly": "45.79"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.50",
@@ -43741,6 +45033,10 @@
                     "co-opIndex": "1.79",
                     "winRateAsAlly": "54.33"
                 },
+                "furion": {
+                    "co-opIndex": "-0.75",
+                    "winRateAsAlly": "57.38"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.34",
                     "winRateAsAlly": "57.79"
@@ -44051,7 +45347,7 @@
                 }
             }
         },
-        "winRate": "51.82"
+        "winRate": "51.81"
     },
     "lycan": {
         "Ally": {
@@ -44191,6 +45487,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.43",
                     "winRateAsAlly": "50.03"
+                },
+                "furion": {
+                    "co-opIndex": "3.78",
+                    "winRateAsAlly": "47.50"
                 },
                 "gyrocopter": {
                     "co-opIndex": "5.66",
@@ -44640,6 +45940,10 @@
                     "co-opIndex": "-1.12",
                     "winRateAsAlly": "52.77"
                 },
+                "furion": {
+                    "co-opIndex": "-1.33",
+                    "winRateAsAlly": "57.03"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.24",
                     "winRateAsAlly": "56.29"
@@ -44950,7 +46254,7 @@
                 }
             }
         },
-        "winRate": "51.81"
+        "winRate": "51.82"
     },
     "magnataur": {
         "Ally": {
@@ -45090,6 +46394,10 @@
                 "faceless_void": {
                     "co-opIndex": "-3.65",
                     "winRateAsAlly": "43.17"
+                },
+                "furion": {
+                    "co-opIndex": "-3.78",
+                    "winRateAsAlly": "38.89"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-3.61",
@@ -45539,6 +46847,10 @@
                     "co-opIndex": "-0.60",
                     "winRateAsAlly": "47.63"
                 },
+                "furion": {
+                    "co-opIndex": "0.03",
+                    "winRateAsAlly": "52.42"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.49",
                     "winRateAsAlly": "52.44"
@@ -45849,7 +47161,7 @@
                 }
             }
         },
-        "winRate": "46.36"
+        "winRate": "46.34"
     },
     "medusa": {
         "Ally": {
@@ -45989,6 +47301,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.46",
                     "winRateAsAlly": "47.31"
+                },
+                "furion": {
+                    "co-opIndex": "-0.24",
+                    "winRateAsAlly": "43.45"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.31",
@@ -46438,6 +47754,10 @@
                     "co-opIndex": "-3.55",
                     "winRateAsAlly": "49.33"
                 },
+                "furion": {
+                    "co-opIndex": "-1.15",
+                    "winRateAsAlly": "54.97"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.40",
                     "winRateAsAlly": "55.17"
@@ -46748,7 +48068,7 @@
                 }
             }
         },
-        "winRate": "49.58"
+        "winRate": "49.56"
     },
     "meepo": {
         "Ally": {
@@ -46888,6 +48208,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.21",
                     "winRateAsAlly": "40.88"
+                },
+                "furion": {
+                    "co-opIndex": "-0.91",
+                    "winRateAsAlly": "36.76"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.24",
@@ -47336,6 +48660,10 @@
                 "faceless_void": {
                     "co-opIndex": "4.36",
                     "winRateAsAlly": "46.38"
+                },
+                "furion": {
+                    "co-opIndex": "2.39",
+                    "winRateAsAlly": "50.08"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.30",
@@ -47788,6 +49116,10 @@
                     "co-opIndex": "1.81",
                     "winRateAsAlly": "48.65"
                 },
+                "furion": {
+                    "co-opIndex": "-1.89",
+                    "winRateAsAlly": "42.52"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.17",
                     "winRateAsAlly": "42.61"
@@ -48235,6 +49567,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.87",
                     "winRateAsAlly": "51.36"
+                },
+                "furion": {
+                    "co-opIndex": "1.31",
+                    "winRateAsAlly": "56.11"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.67",
@@ -48687,6 +50023,10 @@
                     "co-opIndex": "0.69",
                     "winRateAsAlly": "42.77"
                 },
+                "furion": {
+                    "co-opIndex": "-1.98",
+                    "winRateAsAlly": "37.40"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.45",
                     "winRateAsAlly": "37.81"
@@ -49135,6 +50475,10 @@
                     "co-opIndex": "1.71",
                     "winRateAsAlly": "46.34"
                 },
+                "furion": {
+                    "co-opIndex": "-0.00",
+                    "winRateAsAlly": "50.04"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.70",
                     "winRateAsAlly": "50.66"
@@ -49445,7 +50789,7 @@
                 }
             }
         },
-        "winRate": "44.01"
+        "winRate": "44.00"
     },
     "morphling": {
         "Ally": {
@@ -49585,6 +50929,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.16",
                     "winRateAsAlly": "44.37"
+                },
+                "furion": {
+                    "co-opIndex": "-2.22",
+                    "winRateAsAlly": "39.04"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.57",
@@ -50034,6 +51382,10 @@
                     "co-opIndex": "-0.77",
                     "winRateAsAlly": "47.04"
                 },
+                "furion": {
+                    "co-opIndex": "1.46",
+                    "winRateAsAlly": "52.65"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.02",
                     "winRateAsAlly": "51.66"
@@ -50344,7 +51696,7 @@
                 }
             }
         },
-        "winRate": "45.85"
+        "winRate": "45.84"
     },
     "naga_siren": {
         "Ally": {
@@ -50484,6 +51836,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.20",
                     "winRateAsAlly": "44.12"
+                },
+                "furion": {
+                    "co-opIndex": "4.92",
+                    "winRateAsAlly": "41.80"
                 },
                 "gyrocopter": {
                     "co-opIndex": "8.40",
@@ -50932,6 +52288,10 @@
                 "faceless_void": {
                     "co-opIndex": "4.80",
                     "winRateAsAlly": "49.58"
+                },
+                "furion": {
+                    "co-opIndex": "1.33",
+                    "winRateAsAlly": "52.49"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.58",
@@ -51384,6 +52744,10 @@
                     "co-opIndex": "0.51",
                     "winRateAsAlly": "54.26"
                 },
+                "furion": {
+                    "co-opIndex": "0.82",
+                    "winRateAsAlly": "49.92"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.22",
                     "winRateAsAlly": "49.12"
@@ -51832,6 +53196,10 @@
                     "co-opIndex": "-0.11",
                     "winRateAsAlly": "57.02"
                 },
+                "furion": {
+                    "co-opIndex": "-0.24",
+                    "winRateAsAlly": "61.27"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.33",
                     "winRateAsAlly": "60.39"
@@ -52142,7 +53510,7 @@
                 }
             }
         },
-        "winRate": "55.54"
+        "winRate": "55.53"
     },
     "nevermore": {
         "Ally": {
@@ -52282,6 +53650,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.93",
                     "winRateAsAlly": "49.24"
+                },
+                "furion": {
+                    "co-opIndex": "-3.10",
+                    "winRateAsAlly": "42.95"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.73",
@@ -52730,6 +54102,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.27",
                     "winRateAsAlly": "51.26"
+                },
+                "furion": {
+                    "co-opIndex": "2.54",
+                    "winRateAsAlly": "57.80"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.59",
@@ -53182,6 +54558,10 @@
                     "co-opIndex": "-0.95",
                     "winRateAsAlly": "47.94"
                 },
+                "furion": {
+                    "co-opIndex": "4.27",
+                    "winRateAsAlly": "45.82"
+                },
                 "gyrocopter": {
                     "co-opIndex": "5.05",
                     "winRateAsAlly": "46.39"
@@ -53629,6 +55009,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.67",
                     "winRateAsAlly": "52.39"
+                },
+                "furion": {
+                    "co-opIndex": "-1.25",
+                    "winRateAsAlly": "55.29"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.45",
@@ -54081,6 +55465,10 @@
                     "co-opIndex": "0.85",
                     "winRateAsAlly": "48.33"
                 },
+                "furion": {
+                    "co-opIndex": "0.76",
+                    "winRateAsAlly": "43.80"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.55",
                     "winRateAsAlly": "43.01"
@@ -54528,6 +55916,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.04",
                     "winRateAsAlly": "51.03"
+                },
+                "furion": {
+                    "co-opIndex": "0.39",
+                    "winRateAsAlly": "55.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.99",
@@ -54980,6 +56372,10 @@
                     "co-opIndex": "2.89",
                     "winRateAsAlly": "47.73"
                 },
+                "furion": {
+                    "co-opIndex": "-1.11",
+                    "winRateAsAlly": "41.50"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.87",
                     "winRateAsAlly": "41.82"
@@ -55428,6 +56824,10 @@
                     "co-opIndex": "1.09",
                     "winRateAsAlly": "50.06"
                 },
+                "furion": {
+                    "co-opIndex": "-2.05",
+                    "winRateAsAlly": "52.89"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.80",
                     "winRateAsAlly": "54.20"
@@ -55738,7 +57138,7 @@
                 }
             }
         },
-        "winRate": "47.95"
+        "winRate": "47.94"
     },
     "ogre_magi": {
         "Ally": {
@@ -55878,6 +57278,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.70",
                     "winRateAsAlly": "51.04"
+                },
+                "furion": {
+                    "co-opIndex": "-1.08",
+                    "winRateAsAlly": "45.21"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.01",
@@ -56326,6 +57730,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.92",
                     "winRateAsAlly": "52.82"
+                },
+                "furion": {
+                    "co-opIndex": "0.67",
+                    "winRateAsAlly": "58.13"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.39",
@@ -56778,6 +58186,10 @@
                     "co-opIndex": "-0.18",
                     "winRateAsAlly": "52.46"
                 },
+                "furion": {
+                    "co-opIndex": "0.24",
+                    "winRateAsAlly": "48.18"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.64",
                     "winRateAsAlly": "49.09"
@@ -57226,6 +58638,10 @@
                     "co-opIndex": "-2.60",
                     "winRateAsAlly": "54.22"
                 },
+                "furion": {
+                    "co-opIndex": "-2.55",
+                    "winRateAsAlly": "58.51"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.34",
                     "winRateAsAlly": "59.62"
@@ -57536,7 +58952,7 @@
                 }
             }
         },
-        "winRate": "54.11"
+        "winRate": "54.12"
     },
     "oracle": {
         "Ally": {
@@ -57676,6 +59092,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.09",
                     "winRateAsAlly": "41.23"
+                },
+                "furion": {
+                    "co-opIndex": "6.44",
+                    "winRateAsAlly": "38.48"
                 },
                 "gyrocopter": {
                     "co-opIndex": "7.20",
@@ -58125,6 +59545,10 @@
                     "co-opIndex": "-2.60",
                     "winRateAsAlly": "42.30"
                 },
+                "furion": {
+                    "co-opIndex": "-7.23",
+                    "winRateAsAlly": "44.42"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.29",
                     "winRateAsAlly": "46.57"
@@ -58435,7 +59859,7 @@
                 }
             }
         },
-        "winRate": "41.90"
+        "winRate": "41.91"
     },
     "phantom_assassin": {
         "Ally": {
@@ -58575,6 +59999,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.62",
                     "winRateAsAlly": "50.95"
+                },
+                "furion": {
+                    "co-opIndex": "0.12",
+                    "winRateAsAlly": "47.35"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.81",
@@ -59023,6 +60451,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.12",
                     "winRateAsAlly": "56.06"
+                },
+                "furion": {
+                    "co-opIndex": "2.21",
+                    "winRateAsAlly": "60.61"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.80",
@@ -59475,6 +60907,10 @@
                     "co-opIndex": "-1.23",
                     "winRateAsAlly": "44.04"
                 },
+                "furion": {
+                    "co-opIndex": "2.13",
+                    "winRateAsAlly": "41.06"
+                },
                 "gyrocopter": {
                     "co-opIndex": "6.30",
                     "winRateAsAlly": "42.97"
@@ -59923,6 +61359,10 @@
                     "co-opIndex": "2.40",
                     "winRateAsAlly": "48.84"
                 },
+                "furion": {
+                    "co-opIndex": "-0.46",
+                    "winRateAsAlly": "51.95"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.17",
                     "winRateAsAlly": "52.05"
@@ -60233,7 +61673,7 @@
                 }
             }
         },
-        "winRate": "46.14"
+        "winRate": "46.13"
     },
     "phoenix": {
         "Ally": {
@@ -60373,6 +61813,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.72",
                     "winRateAsAlly": "49.64"
+                },
+                "furion": {
+                    "co-opIndex": "0.14",
+                    "winRateAsAlly": "44.39"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-5.15",
@@ -60821,6 +62265,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.25",
                     "winRateAsAlly": "51.79"
+                },
+                "furion": {
+                    "co-opIndex": "-1.53",
+                    "winRateAsAlly": "55.52"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.35",
@@ -61273,6 +62721,10 @@
                     "co-opIndex": "-2.03",
                     "winRateAsAlly": "40.86"
                 },
+                "furion": {
+                    "co-opIndex": "1.21",
+                    "winRateAsAlly": "37.87"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-4.00",
                     "winRateAsAlly": "36.12"
@@ -61721,6 +63173,10 @@
                     "co-opIndex": "-0.32",
                     "winRateAsAlly": "44.64"
                 },
+                "furion": {
+                    "co-opIndex": "0.11",
+                    "winRateAsAlly": "49.30"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.66",
                     "winRateAsAlly": "49.35"
@@ -62031,7 +63487,7 @@
                 }
             }
         },
-        "winRate": "43.24"
+        "winRate": "43.23"
     },
     "pudge": {
         "Ally": {
@@ -62171,6 +63627,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.57",
                     "winRateAsAlly": "51.00"
+                },
+                "furion": {
+                    "co-opIndex": "-1.02",
+                    "winRateAsAlly": "45.76"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.36",
@@ -62620,6 +64080,10 @@
                     "co-opIndex": "0.17",
                     "winRateAsAlly": "53.92"
                 },
+                "furion": {
+                    "co-opIndex": "-0.26",
+                    "winRateAsAlly": "58.10"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.14",
                     "winRateAsAlly": "58.70"
@@ -62930,7 +64394,7 @@
                 }
             }
         },
-        "winRate": "52.27"
+        "winRate": "52.26"
     },
     "pugna": {
         "Ally": {
@@ -63070,6 +64534,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.41",
                     "winRateAsAlly": "46.54"
+                },
+                "furion": {
+                    "co-opIndex": "3.20",
+                    "winRateAsAlly": "42.80"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.17",
@@ -63518,6 +64986,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.91",
                     "winRateAsAlly": "48.57"
+                },
+                "furion": {
+                    "co-opIndex": "-3.57",
+                    "winRateAsAlly": "51.59"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.36",
@@ -63970,6 +65442,10 @@
                     "co-opIndex": "1.74",
                     "winRateAsAlly": "41.77"
                 },
+                "furion": {
+                    "co-opIndex": "1.18",
+                    "winRateAsAlly": "37.22"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.55",
                     "winRateAsAlly": "37.57"
@@ -64418,6 +65894,10 @@
                     "co-opIndex": "-2.09",
                     "winRateAsAlly": "43.19"
                 },
+                "furion": {
+                    "co-opIndex": "-0.38",
+                    "winRateAsAlly": "48.39"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.96",
                     "winRateAsAlly": "48.82"
@@ -64728,7 +66208,7 @@
                 }
             }
         },
-        "winRate": "42.58"
+        "winRate": "42.61"
     },
     "rattletrap": {
         "Ally": {
@@ -64868,6 +66348,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.76",
                     "winRateAsAlly": "48.44"
+                },
+                "furion": {
+                    "co-opIndex": "3.66",
+                    "winRateAsAlly": "46.48"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.84",
@@ -65317,6 +66801,10 @@
                     "co-opIndex": "-1.32",
                     "winRateAsAlly": "51.75"
                 },
+                "furion": {
+                    "co-opIndex": "-0.14",
+                    "winRateAsAlly": "56.81"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.17",
                     "winRateAsAlly": "56.76"
@@ -65627,7 +67115,7 @@
                 }
             }
         },
-        "winRate": "50.88"
+        "winRate": "50.89"
     },
     "razor": {
         "Ally": {
@@ -65767,6 +67255,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.98",
                     "winRateAsAlly": "44.46"
+                },
+                "furion": {
+                    "co-opIndex": "6.41",
+                    "winRateAsAlly": "41.76"
                 },
                 "gyrocopter": {
                     "co-opIndex": "6.53",
@@ -66216,6 +67708,10 @@
                     "co-opIndex": "-1.49",
                     "winRateAsAlly": "46.00"
                 },
+                "furion": {
+                    "co-opIndex": "-3.21",
+                    "winRateAsAlly": "49.54"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.80",
                     "winRateAsAlly": "50.55"
@@ -66526,7 +68022,7 @@
                 }
             }
         },
-        "winRate": "45.14"
+        "winRate": "45.15"
     },
     "riki": {
         "Ally": {
@@ -66666,6 +68162,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.30",
                     "winRateAsAlly": "53.35"
+                },
+                "furion": {
+                    "co-opIndex": "0.38",
+                    "winRateAsAlly": "49.21"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.44",
@@ -67115,6 +68615,10 @@
                     "co-opIndex": "2.14",
                     "winRateAsAlly": "57.82"
                 },
+                "furion": {
+                    "co-opIndex": "-1.02",
+                    "winRateAsAlly": "60.34"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.51",
                     "winRateAsAlly": "61.05"
@@ -67425,7 +68929,7 @@
                 }
             }
         },
-        "winRate": "55.07"
+        "winRate": "55.08"
     },
     "rubick": {
         "Ally": {
@@ -67565,6 +69069,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.37",
                     "winRateAsAlly": "44.90"
+                },
+                "furion": {
+                    "co-opIndex": "-1.69",
+                    "winRateAsAlly": "39.24"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-4.59",
@@ -68013,6 +69521,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.66",
                     "winRateAsAlly": "46.61"
+                },
+                "furion": {
+                    "co-opIndex": "-0.03",
+                    "winRateAsAlly": "51.87"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.75",
@@ -68465,6 +69977,10 @@
                     "co-opIndex": "-0.50",
                     "winRateAsAlly": "48.24"
                 },
+                "furion": {
+                    "co-opIndex": "0.65",
+                    "winRateAsAlly": "44.30"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.77",
                     "winRateAsAlly": "43.46"
@@ -68912,6 +70428,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.93",
                     "winRateAsAlly": "52.09"
+                },
+                "furion": {
+                    "co-opIndex": "2.01",
+                    "winRateAsAlly": "57.20"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.23",
@@ -69364,6 +70884,10 @@
                     "co-opIndex": "1.10",
                     "winRateAsAlly": "43.19"
                 },
+                "furion": {
+                    "co-opIndex": "0.96",
+                    "winRateAsAlly": "38.76"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-4.55",
                     "winRateAsAlly": "36.85"
@@ -69811,6 +71335,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.38",
                     "winRateAsAlly": "44.71"
+                },
+                "furion": {
+                    "co-opIndex": "-1.54",
+                    "winRateAsAlly": "49.51"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.99",
@@ -70263,6 +71791,10 @@
                     "co-opIndex": "-0.31",
                     "winRateAsAlly": "50.22"
                 },
+                "furion": {
+                    "co-opIndex": "3.02",
+                    "winRateAsAlly": "47.28"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.63",
                     "winRateAsAlly": "46.41"
@@ -70711,6 +72243,10 @@
                     "co-opIndex": "0.80",
                     "winRateAsAlly": "53.92"
                 },
+                "furion": {
+                    "co-opIndex": "-2.10",
+                    "winRateAsAlly": "56.71"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.09",
                     "winRateAsAlly": "56.50"
@@ -71021,7 +72557,7 @@
                 }
             }
         },
-        "winRate": "51.94"
+        "winRate": "51.95"
     },
     "shredder": {
         "Ally": {
@@ -71161,6 +72697,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.51",
                     "winRateAsAlly": "45.81"
+                },
+                "furion": {
+                    "co-opIndex": "-1.55",
+                    "winRateAsAlly": "40.54"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-3.38",
@@ -71609,6 +73149,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.17",
                     "winRateAsAlly": "48.62"
+                },
+                "furion": {
+                    "co-opIndex": "3.56",
+                    "winRateAsAlly": "55.08"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.61",
@@ -72061,6 +73605,10 @@
                     "co-opIndex": "1.55",
                     "winRateAsAlly": "51.97"
                 },
+                "furion": {
+                    "co-opIndex": "-2.06",
+                    "winRateAsAlly": "45.72"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.95",
                     "winRateAsAlly": "46.00"
@@ -72508,6 +74056,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.00",
                     "winRateAsAlly": "54.29"
+                },
+                "furion": {
+                    "co-opIndex": "-2.18",
+                    "winRateAsAlly": "57.42"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.96",
@@ -72960,6 +74512,10 @@
                     "co-opIndex": "-0.10",
                     "winRateAsAlly": "55.24"
                 },
+                "furion": {
+                    "co-opIndex": "0.09",
+                    "winRateAsAlly": "50.87"
+                },
                 "gyrocopter": {
                     "co-opIndex": "3.18",
                     "winRateAsAlly": "52.68"
@@ -73407,6 +74963,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.70",
                     "winRateAsAlly": "57.96"
+                },
+                "furion": {
+                    "co-opIndex": "-1.03",
+                    "winRateAsAlly": "62.01"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.81",
@@ -73859,6 +75419,10 @@
                     "co-opIndex": "3.45",
                     "winRateAsAlly": "48.36"
                 },
+                "furion": {
+                    "co-opIndex": "3.09",
+                    "winRateAsAlly": "43.62"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.34",
                     "winRateAsAlly": "42.39"
@@ -74307,6 +75871,10 @@
                     "co-opIndex": "2.26",
                     "winRateAsAlly": "50.99"
                 },
+                "furion": {
+                    "co-opIndex": "-2.68",
+                    "winRateAsAlly": "52.89"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.97",
                     "winRateAsAlly": "53.60"
@@ -74617,7 +76185,7 @@
                 }
             }
         },
-        "winRate": "48.30"
+        "winRate": "48.32"
     },
     "slardar": {
         "Ally": {
@@ -74757,6 +76325,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.23",
                     "winRateAsAlly": "47.34"
+                },
+                "furion": {
+                    "co-opIndex": "1.41",
+                    "winRateAsAlly": "43.39"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.71",
@@ -75205,6 +76777,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.53",
                     "winRateAsAlly": "50.09"
+                },
+                "furion": {
+                    "co-opIndex": "1.68",
+                    "winRateAsAlly": "55.75"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.36",
@@ -75657,6 +77233,10 @@
                     "co-opIndex": "-1.37",
                     "winRateAsAlly": "45.76"
                 },
+                "furion": {
+                    "co-opIndex": "-0.40",
+                    "winRateAsAlly": "41.80"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.48",
                     "winRateAsAlly": "43.24"
@@ -76104,6 +77684,10 @@
                 "faceless_void": {
                     "co-opIndex": "-4.30",
                     "winRateAsAlly": "47.39"
+                },
+                "furion": {
+                    "co-opIndex": "3.74",
+                    "winRateAsAlly": "56.02"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.12",
@@ -76556,6 +78140,10 @@
                     "co-opIndex": "1.60",
                     "winRateAsAlly": "49.74"
                 },
+                "furion": {
+                    "co-opIndex": "-2.25",
+                    "winRateAsAlly": "43.48"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.56",
                     "winRateAsAlly": "43.56"
@@ -77004,6 +78592,10 @@
                     "co-opIndex": "-0.24",
                     "winRateAsAlly": "51.96"
                 },
+                "furion": {
+                    "co-opIndex": "-2.47",
+                    "winRateAsAlly": "55.14"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.24",
                     "winRateAsAlly": "57.58"
@@ -77314,7 +78906,7 @@
                 }
             }
         },
-        "winRate": "50.52"
+        "winRate": "50.51"
     },
     "spectre": {
         "winRate": "58.54"
@@ -77457,6 +79049,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.96",
                     "winRateAsAlly": "52.19"
+                },
+                "furion": {
+                    "co-opIndex": "1.09",
+                    "winRateAsAlly": "48.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "1.08",
@@ -77906,6 +79502,10 @@
                     "co-opIndex": "0.05",
                     "winRateAsAlly": "55.83"
                 },
+                "furion": {
+                    "co-opIndex": "3.18",
+                    "winRateAsAlly": "62.09"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.64",
                     "winRateAsAlly": "60.34"
@@ -78216,7 +79816,7 @@
                 }
             }
         },
-        "winRate": "54.25"
+        "winRate": "54.26"
     },
     "storm_spirit": {
         "Ally": {
@@ -78356,6 +79956,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.57",
                     "winRateAsAlly": "45.52"
+                },
+                "furion": {
+                    "co-opIndex": "-0.76",
+                    "winRateAsAlly": "41.97"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.24",
@@ -78805,6 +80409,10 @@
                     "co-opIndex": "0.88",
                     "winRateAsAlly": "50.29"
                 },
+                "furion": {
+                    "co-opIndex": "5.01",
+                    "winRateAsAlly": "57.05"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.02",
                     "winRateAsAlly": "54.12"
@@ -79115,7 +80723,7 @@
                 }
             }
         },
-        "winRate": "48.29"
+        "winRate": "48.30"
     },
     "sven": {
         "Ally": {
@@ -79255,6 +80863,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.32",
                     "winRateAsAlly": "47.45"
+                },
+                "furion": {
+                    "co-opIndex": "-0.72",
+                    "winRateAsAlly": "43.31"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.38",
@@ -79703,6 +81315,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.57",
                     "winRateAsAlly": "52.02"
+                },
+                "furion": {
+                    "co-opIndex": "-2.45",
+                    "winRateAsAlly": "54.31"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.33",
@@ -80155,6 +81771,10 @@
                     "co-opIndex": "2.24",
                     "winRateAsAlly": "50.91"
                 },
+                "furion": {
+                    "co-opIndex": "-0.43",
+                    "winRateAsAlly": "45.12"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-3.99",
                     "winRateAsAlly": "43.72"
@@ -80603,6 +82223,10 @@
                     "co-opIndex": "0.83",
                     "winRateAsAlly": "53.36"
                 },
+                "furion": {
+                    "co-opIndex": "-1.88",
+                    "winRateAsAlly": "56.28"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.78",
                     "winRateAsAlly": "57.58"
@@ -80913,7 +82537,7 @@
                 }
             }
         },
-        "winRate": "51.36"
+        "winRate": "51.34"
     },
     "templar_assassin": {
         "Ally": {
@@ -81053,6 +82677,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.25",
                     "winRateAsAlly": "47.04"
+                },
+                "furion": {
+                    "co-opIndex": "-0.52",
+                    "winRateAsAlly": "42.26"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.82",
@@ -81502,6 +83130,10 @@
                     "co-opIndex": "-2.52",
                     "winRateAsAlly": "48.78"
                 },
+                "furion": {
+                    "co-opIndex": "2.33",
+                    "winRateAsAlly": "55.79"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.64",
                     "winRateAsAlly": "52.86"
@@ -81812,7 +83444,7 @@
                 }
             }
         },
-        "winRate": "48.48"
+        "winRate": "48.49"
     },
     "terrorblade": {
         "Ally": {
@@ -81952,6 +83584,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.07",
                     "winRateAsAlly": "48.88"
+                },
+                "furion": {
+                    "co-opIndex": "1.84",
+                    "winRateAsAlly": "44.72"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.28",
@@ -82401,6 +84037,10 @@
                     "co-opIndex": "0.33",
                     "winRateAsAlly": "51.67"
                 },
+                "furion": {
+                    "co-opIndex": "-0.41",
+                    "winRateAsAlly": "55.73"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.84",
                     "winRateAsAlly": "54.16"
@@ -82711,7 +84351,7 @@
                 }
             }
         },
-        "winRate": "49.93"
+        "winRate": "49.94"
     },
     "tidehunter": {
         "Ally": {
@@ -82851,6 +84491,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.46",
                     "winRateAsAlly": "48.96"
+                },
+                "furion": {
+                    "co-opIndex": "-0.93",
+                    "winRateAsAlly": "44.79"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.10",
@@ -83300,6 +84944,10 @@
                     "co-opIndex": "1.65",
                     "winRateAsAlly": "53.68"
                 },
+                "furion": {
+                    "co-opIndex": "-2.24",
+                    "winRateAsAlly": "55.97"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.02",
                     "winRateAsAlly": "56.46"
@@ -83610,7 +85258,7 @@
                 }
             }
         },
-        "winRate": "51.25"
+        "winRate": "51.26"
     },
     "tinker": {
         "Ally": {
@@ -83750,6 +85398,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.93",
                     "winRateAsAlly": "48.10"
+                },
+                "furion": {
+                    "co-opIndex": "0.65",
+                    "winRateAsAlly": "43.03"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-6.57",
@@ -84199,6 +85851,10 @@
                     "co-opIndex": "1.94",
                     "winRateAsAlly": "51.29"
                 },
+                "furion": {
+                    "co-opIndex": "1.93",
+                    "winRateAsAlly": "55.85"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.53",
                     "winRateAsAlly": "54.86"
@@ -84509,7 +86165,7 @@
                 }
             }
         },
-        "winRate": "48.75"
+        "winRate": "48.76"
     },
     "tiny": {
         "Ally": {
@@ -84649,6 +86305,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.68",
                     "winRateAsAlly": "43.23"
+                },
+                "furion": {
+                    "co-opIndex": "2.32",
+                    "winRateAsAlly": "39.50"
                 },
                 "gyrocopter": {
                     "co-opIndex": "3.60",
@@ -85097,6 +86757,10 @@
                 "faceless_void": {
                     "co-opIndex": "3.53",
                     "winRateAsAlly": "47.65"
+                },
+                "furion": {
+                    "co-opIndex": "-0.05",
+                    "winRateAsAlly": "50.48"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.21",
@@ -85549,6 +87213,10 @@
                     "co-opIndex": "-0.15",
                     "winRateAsAlly": "51.24"
                 },
+                "furion": {
+                    "co-opIndex": "-0.23",
+                    "winRateAsAlly": "46.73"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.06",
                     "winRateAsAlly": "47.56"
@@ -85996,6 +87664,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.15",
                     "winRateAsAlly": "54.52"
+                },
+                "furion": {
+                    "co-opIndex": "0.61",
+                    "winRateAsAlly": "59.21"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.45",
@@ -86448,6 +88120,10 @@
                     "co-opIndex": "-0.11",
                     "winRateAsAlly": "51.78"
                 },
+                "furion": {
+                    "co-opIndex": "0.92",
+                    "winRateAsAlly": "47.78"
+                },
                 "gyrocopter": {
                     "co-opIndex": "3.27",
                     "winRateAsAlly": "49.13"
@@ -86896,6 +88572,10 @@
                     "co-opIndex": "2.66",
                     "winRateAsAlly": "56.41"
                 },
+                "furion": {
+                    "co-opIndex": "-0.23",
+                    "winRateAsAlly": "59.21"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-0.34",
                     "winRateAsAlly": "58.92"
@@ -87206,7 +88886,7 @@
                 }
             }
         },
-        "winRate": "53.40"
+        "winRate": "53.41"
     },
     "tusk": {
         "Ally": {
@@ -87346,6 +89026,10 @@
                 "faceless_void": {
                     "co-opIndex": "0.84",
                     "winRateAsAlly": "41.35"
+                },
+                "furion": {
+                    "co-opIndex": "-0.70",
+                    "winRateAsAlly": "36.49"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.13",
@@ -87794,6 +89478,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.98",
                     "winRateAsAlly": "43.63"
+                },
+                "furion": {
+                    "co-opIndex": "1.25",
+                    "winRateAsAlly": "49.14"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.03",
@@ -88246,6 +89934,10 @@
                     "co-opIndex": "-0.15",
                     "winRateAsAlly": "49.05"
                 },
+                "furion": {
+                    "co-opIndex": "0.95",
+                    "winRateAsAlly": "45.08"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.86",
                     "winRateAsAlly": "45.26"
@@ -88694,6 +90386,10 @@
                     "co-opIndex": "-3.73",
                     "winRateAsAlly": "50.30"
                 },
+                "furion": {
+                    "co-opIndex": "-4.05",
+                    "winRateAsAlly": "54.40"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-4.26",
                     "winRateAsAlly": "54.07"
@@ -89004,7 +90700,7 @@
                 }
             }
         },
-        "winRate": "50.69"
+        "winRate": "50.67"
     },
     "ursa": {
         "Ally": {
@@ -89144,6 +90840,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.41",
                     "winRateAsAlly": "50.93"
+                },
+                "furion": {
+                    "co-opIndex": "3.92",
+                    "winRateAsAlly": "49.02"
                 },
                 "gyrocopter": {
                     "co-opIndex": "3.06",
@@ -89593,6 +91293,10 @@
                     "co-opIndex": "-0.42",
                     "winRateAsAlly": "54.54"
                 },
+                "furion": {
+                    "co-opIndex": "-2.88",
+                    "winRateAsAlly": "57.47"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.24",
                     "winRateAsAlly": "58.22"
@@ -89903,7 +91607,7 @@
                 }
             }
         },
-        "winRate": "53.22"
+        "winRate": "53.21"
     },
     "vengefulspirit": {
         "Ally": {
@@ -90043,6 +91747,10 @@
                 "faceless_void": {
                     "co-opIndex": "2.18",
                     "winRateAsAlly": "51.93"
+                },
+                "furion": {
+                    "co-opIndex": "2.01",
+                    "winRateAsAlly": "47.27"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.15",
@@ -90491,6 +92199,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.37",
                     "winRateAsAlly": "53.75"
+                },
+                "furion": {
+                    "co-opIndex": "1.05",
+                    "winRateAsAlly": "58.98"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.77",
@@ -90943,6 +92655,10 @@
                     "co-opIndex": "0.86",
                     "winRateAsAlly": "50.73"
                 },
+                "furion": {
+                    "co-opIndex": "0.17",
+                    "winRateAsAlly": "45.89"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-2.21",
                     "winRateAsAlly": "45.02"
@@ -91390,6 +93106,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.41",
                     "winRateAsAlly": "53.20"
+                },
+                "furion": {
+                    "co-opIndex": "-3.57",
+                    "winRateAsAlly": "55.79"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.43",
@@ -91842,6 +93562,10 @@
                     "co-opIndex": "2.45",
                     "winRateAsAlly": "48.57"
                 },
+                "furion": {
+                    "co-opIndex": "2.03",
+                    "winRateAsAlly": "43.83"
+                },
                 "gyrocopter": {
                     "co-opIndex": "3.34",
                     "winRateAsAlly": "44.63"
@@ -92290,6 +94014,10 @@
                     "co-opIndex": "0.60",
                     "winRateAsAlly": "50.84"
                 },
+                "furion": {
+                    "co-opIndex": "-2.77",
+                    "winRateAsAlly": "53.48"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.90",
                     "winRateAsAlly": "55.28"
@@ -92600,7 +94328,7 @@
                 }
             }
         },
-        "winRate": "48.97"
+        "winRate": "48.98"
     },
     "visage": {
         "Ally": {
@@ -92740,6 +94468,10 @@
                 "faceless_void": {
                     "co-opIndex": "1.00",
                     "winRateAsAlly": "46.90"
+                },
+                "furion": {
+                    "co-opIndex": "6.86",
+                    "winRateAsAlly": "44.89"
                 },
                 "gyrocopter": {
                     "co-opIndex": "2.37",
@@ -93189,6 +94921,10 @@
                     "co-opIndex": "-0.44",
                     "winRateAsAlly": "49.35"
                 },
+                "furion": {
+                    "co-opIndex": "-4.79",
+                    "winRateAsAlly": "51.46"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-8.09",
                     "winRateAsAlly": "49.47"
@@ -93499,7 +95235,7 @@
                 }
             }
         },
-        "winRate": "48.00"
+        "winRate": "47.99"
     },
     "warlock": {
         "Ally": {
@@ -93639,6 +95375,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.43",
                     "winRateAsAlly": "50.56"
+                },
+                "furion": {
+                    "co-opIndex": "1.70",
+                    "winRateAsAlly": "47.08"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.24",
@@ -94087,6 +95827,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.78",
                     "winRateAsAlly": "53.48"
+                },
+                "furion": {
+                    "co-opIndex": "-3.77",
+                    "winRateAsAlly": "56.13"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-2.07",
@@ -94539,6 +96283,10 @@
                     "co-opIndex": "-1.31",
                     "winRateAsAlly": "48.18"
                 },
+                "furion": {
+                    "co-opIndex": "1.59",
+                    "winRateAsAlly": "45.06"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.00",
                     "winRateAsAlly": "44.58"
@@ -94986,6 +96734,10 @@
                 "faceless_void": {
                     "co-opIndex": "-7.95",
                     "winRateAsAlly": "47.82"
+                },
+                "furion": {
+                    "co-opIndex": "-0.59",
+                    "winRateAsAlly": "56.07"
                 },
                 "gyrocopter": {
                     "co-opIndex": "0.56",
@@ -95438,6 +97190,10 @@
                     "co-opIndex": "2.00",
                     "winRateAsAlly": "45.17"
                 },
+                "furion": {
+                    "co-opIndex": "1.66",
+                    "winRateAsAlly": "40.58"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.51",
                     "winRateAsAlly": "39.52"
@@ -95886,6 +97642,10 @@
                     "co-opIndex": "-0.45",
                     "winRateAsAlly": "47.18"
                 },
+                "furion": {
+                    "co-opIndex": "-0.97",
+                    "winRateAsAlly": "51.38"
+                },
                 "gyrocopter": {
                     "co-opIndex": "1.20",
                     "winRateAsAlly": "52.28"
@@ -96196,7 +97956,7 @@
                 }
             }
         },
-        "winRate": "45.84"
+        "winRate": "45.83"
     },
     "winter_wyvern": {
         "Ally": {
@@ -96336,6 +98096,10 @@
                 "faceless_void": {
                     "co-opIndex": "-1.18",
                     "winRateAsAlly": "44.57"
+                },
+                "furion": {
+                    "co-opIndex": "2.12",
+                    "winRateAsAlly": "41.57"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-1.55",
@@ -96784,6 +98548,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.26",
                     "winRateAsAlly": "48.09"
+                },
+                "furion": {
+                    "co-opIndex": "-2.10",
+                    "winRateAsAlly": "51.60"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-4.00",
@@ -97236,6 +99004,10 @@
                     "co-opIndex": "1.63",
                     "winRateAsAlly": "36.97"
                 },
+                "furion": {
+                    "co-opIndex": "-3.69",
+                    "winRateAsAlly": "31.14"
+                },
                 "gyrocopter": {
                     "co-opIndex": "2.59",
                     "winRateAsAlly": "33.37"
@@ -97684,6 +99456,10 @@
                     "co-opIndex": "-2.01",
                     "winRateAsAlly": "38.53"
                 },
+                "furion": {
+                    "co-opIndex": "-1.73",
+                    "winRateAsAlly": "42.92"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.24",
                     "winRateAsAlly": "42.92"
@@ -97994,7 +99770,7 @@
                 }
             }
         },
-        "winRate": "37.84"
+        "winRate": "37.85"
     },
     "witch_doctor": {
         "Ally": {
@@ -98134,6 +99910,10 @@
                 "faceless_void": {
                     "co-opIndex": "-0.02",
                     "winRateAsAlly": "49.81"
+                },
+                "furion": {
+                    "co-opIndex": "0.82",
+                    "winRateAsAlly": "45.72"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.19",
@@ -98582,6 +100362,10 @@
                 "faceless_void": {
                     "co-opIndex": "-2.61",
                     "winRateAsAlly": "51.57"
+                },
+                "furion": {
+                    "co-opIndex": "-4.63",
+                    "winRateAsAlly": "54.73"
                 },
                 "gyrocopter": {
                     "co-opIndex": "-0.22",
@@ -99034,6 +100818,10 @@
                     "co-opIndex": "1.71",
                     "winRateAsAlly": "55.61"
                 },
+                "furion": {
+                    "co-opIndex": "4.17",
+                    "winRateAsAlly": "52.30"
+                },
                 "gyrocopter": {
                     "co-opIndex": "-1.69",
                     "winRateAsAlly": "49.57"
@@ -99482,6 +101270,10 @@
                     "co-opIndex": "0.01",
                     "winRateAsAlly": "57.76"
                 },
+                "furion": {
+                    "co-opIndex": "1.27",
+                    "winRateAsAlly": "62.86"
+                },
                 "gyrocopter": {
                     "co-opIndex": "0.95",
                     "winRateAsAlly": "62.44"
@@ -99792,6 +101584,6 @@
                 }
             }
         },
-        "winRate": "56.23"
+        "winRate": "56.25"
     }
 }

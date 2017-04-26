@@ -21,6 +21,7 @@ headers = { 'Referer':'http://dotamax.com/hero/rate/',
 # download
 with open('herolist.txt') as heros:
     herolist = heros.read().split(',')
+    herolist.append('furion')
     for hero in herolist:
         # # Ally
         # url = 'http://dotamax.com/hero/detail/match_up_comb/' + hero + '/'
@@ -31,11 +32,10 @@ with open('herolist.txt') as heros:
         # with open('./html/comb/'+hero,'w') as f:
         #     f.write(req.text)
         # time.sleep(0.5)
-
         # Enemy
         url = 'http://dotamax.com/hero/detail/match_up_anti/' + hero + '/'
         req = requests.get(url,headers=headers)
-        print(req.status_code)        
+        print(req.status_code,' ', hero)        
         if (req.status_code != 200):
             print(url)
         with open('./html/anti/'+hero,'w') as f:
@@ -75,7 +75,11 @@ def WinRate(fileDescriptor):
         # tdlist = trlist[i].find_all('tr')
         # print(trlist[i])
         # (r"DoNav('/hero/detail/([A-Za-z_\'-]+?)")
-        heroName = getHeroName.search(re.sub(r'\ ','_',str(trlist[i]))).group(1)
+        nameRaw = re.sub(r'\ ','_',str(trlist[i]))
+        if 'natural' in nameRaw and 'prophet' in nameRaw:
+            heroName = 'nature_prophet'
+        else:
+            heroName = getHeroName.search(nameRaw).group(1)
         if len(tdlist) != 3:
             print('Irregular tdlist:\n',tdlist)
             break
@@ -84,22 +88,6 @@ def WinRate(fileDescriptor):
         # heroName = 'gg'
         # heroName = getHeroName.search(re.sub(r'\ ','_',str(tdlist[0]))).group(1)
         # print(tdlist)
-        '''
-        if (heroName == 'Underlord'):
-            heroName = 'abyssal_underlord'
-        if (heroName == 'Anti-Mage'):
-            heroName = 'antimage'
-        if (heroName == 'Centaur_Warrunner'):
-            heroName = 'centaur'
-        if (heroName == 'Doom'):
-            heroName = 'doom_bringer'
-        if (heroName == 'Lifestealer'):
-            heroName = 'life_stealer'          
-        if (heroName == 'Magnus'):
-            heroName = 'magnataur'
-        if (heroName == 'Necrophos'):
-            heroName = 'necrolyte'
-        '''
         # print(heroName)
         # cooperationIndex = ratePatt.search(str(tdlist[1])).group(1)
         targetHeroWinRate = ratePatt.search(str(tdlist[1])).group(1)
@@ -107,7 +95,7 @@ def WinRate(fileDescriptor):
         WinRateDict[heroName.lower()] = {'winRate':targetHeroWinRate}
         # except:
         #     print(tdlist)
-    print(WinRateDict)
+    # print(WinRateDict)
     
     return WinRateDict
 
@@ -130,9 +118,13 @@ def Enemy(fileDescriptor):
             break
         try:
             # heroName = getHeroName.search(str(tdlist[0])).group(1)
-            heroName = getHeroName.search(re.sub(r'\ ','_',str(tdlist[0]))).group(1)
-            if (heroName == 'furion'):
-                continue
+            nameRaw = re.sub(r'\ ','_',str(tdlist[0])).lower()
+            if 'natural' in nameRaw and 'prophet' in nameRaw:
+                heroName = 'furion'
+            else:
+                heroName = getHeroName.search(nameRaw).group(1)
+            # if (heroName == 'furion'):
+            #     continue
             cooperationIndex = ratePatt.search(str(tdlist[1])).group(1)
             targetHeroWinRate = ratePatt.search(str(tdlist[2])).group(1)
             # ignore total battles for now, will be trivial to add later
@@ -157,9 +149,14 @@ def Ally(fileDescriptor):
             print('Irregular tdlist:\n',tdlist)
             break
         try:
-            heroName = getHeroName.search(str(tdlist[0])).group(1)
-            if (heroName == 'furion'):
-                continue
+            nameRaw = re.sub(r'\ ','_',str(tdlist[0])).lower()
+            if 'natural' in nameRaw and 'prophet' in nameRaw:
+                heroName = 'furion'
+            else:
+                heroName = getHeroName.search(nameRaw).group(1)
+            # heroName = getHeroName.search(str(tdlist[0])).group(1)
+            # if (heroName == 'furion'):
+                # continue
             cooperationIndex = ratePatt.search(str(tdlist[1])).group(1)
             targetHeroWinRate = ratePatt.search(str(tdlist[2])).group(1)
             # ignore total battles for now, will be trivial to add later
@@ -178,11 +175,13 @@ with open('herolist.txt') as heros:
     with open('./html/winRate/winRate','r') as f:
         TopLayerDict = WinRate(f)
     
-    print('good')
-
+    # print('good')
+    # special for nature's prophet
+    herolist.append('furion')
     for hero in herolist:
-        if (hero == 'furion'):
-            continue
+        print('Processing ', hero,'')
+        # if (hero == 'furion'):
+        #     continue
         AllyDict = {}
         EnemyDict = {}
         # Ally
@@ -195,8 +194,9 @@ with open('herolist.txt') as heros:
             EnemyDict[hero] = Enemy(f2)
     
         TopLayerDict[hero.lower()]['Ally'] = AllyDict
+        # print(TopLayerDict)
         TopLayerDict[hero.lower()]['Enemy'] = EnemyDict
-        print(hero)  
+        # print(hero)  
              
     out = json.dumps(TopLayerDict, sort_keys=True,indent=4, separators=(',', ': '))
     with open('Dota_STAT.json','w') as js:
