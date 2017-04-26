@@ -17,11 +17,11 @@ headers = { 'Referer':'http://dotamax.com/hero/rate/',
 # # with open('./match_up_anti_spectre.html','w') as f:
 # with open('./winrate.html','w') as f:
 #     f.write(req.text)
-'''
+
 # download
 with open('herolist.txt') as heros:
     herolist = heros.read().split(',')
-    herolist.append('furion')
+    herolist.append("'nature's_prophet")
     for hero in herolist:
         # # Ally
         # url = 'http://dotamax.com/hero/detail/match_up_comb/' + hero + '/'
@@ -32,6 +32,8 @@ with open('herolist.txt') as heros:
         # with open('./html/comb/'+hero,'w') as f:
         #     f.write(req.text)
         # time.sleep(0.5)
+        if hero != 'furion':
+            continue
         # Enemy
         url = 'http://dotamax.com/hero/detail/match_up_anti/' + hero + '/'
         req = requests.get(url,headers=headers)
@@ -51,7 +53,7 @@ with open('herolist.txt') as heros:
     with open('./html/winRate/winRate','w') as f:
         f.write(req.text)
     time.sleep(0.5)
-'''
+
 
 
 
