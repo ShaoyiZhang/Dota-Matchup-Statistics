@@ -17,27 +17,25 @@ headers = { 'Referer':'http://dotamax.com/hero/rate/',
 # # with open('./match_up_anti_spectre.html','w') as f:
 # with open('./winrate.html','w') as f:
 #     f.write(req.text)
-
+'''
 # download
 with open('herolist.txt') as heros:
     herolist = heros.read().split(',')
-    herolist.append("'nature's_prophet")
+    herolist.append("furion")
+    herolist.append('spectre')
     for hero in herolist:
-        # # Ally
-        # url = 'http://dotamax.com/hero/detail/match_up_comb/' + hero + '/'
-        # req = requests.get(url,headers=headers)
-        # print(req.status_code)        
-        # if (req.status_code != 200):
-        #     print(url)
-        # with open('./html/comb/'+hero,'w') as f:
-        #     f.write(req.text)
-        # time.sleep(0.5)
-        if hero != 'furion':
-            continue
+        # Ally
+        url = 'http://dotamax.com/hero/detail/match_up_comb/' + hero + '/'
+        req = requests.get(url,headers=headers)
+        print(req.status_code,hero)        
+        with open('./html/comb/'+hero,'w') as f:
+            f.write(req.text)
+        time.sleep(0.5)
+
         # Enemy
         url = 'http://dotamax.com/hero/detail/match_up_anti/' + hero + '/'
         req = requests.get(url,headers=headers)
-        print(req.status_code,' ', hero)        
+        print(req.status_code, hero)        
         if (req.status_code != 200):
             print(url)
         with open('./html/anti/'+hero,'w') as f:
@@ -47,16 +45,14 @@ with open('herolist.txt') as heros:
     # WinRate
     url = 'http://dotamax.com/hero/rate'
     req = requests.get(url,headers=headers)
-    print(req.status_code)        
+    print(req.status_code,'winRate')        
     if (req.status_code != 200):
         print(url)
     with open('./html/winRate/winRate','w') as f:
         f.write(req.text)
     time.sleep(0.5)
 
-
-
-
+'''
 def WinRate(fileDescriptor):
     # getHeroName = re.compile('name-list">([A-Za-z_\'-]+?)</span>')
     getHeroName = re.compile("/hero/detail/([A-Za-z_\'-]+?)'")
@@ -180,6 +176,8 @@ with open('herolist.txt') as heros:
     # print('good')
     # special for nature's prophet
     herolist.append('furion')
+    herolist.append('spectre')
+    
     for hero in herolist:
         print('Processing ', hero,'')
         # if (hero == 'furion'):
@@ -196,9 +194,12 @@ with open('herolist.txt') as heros:
             EnemyDict[hero] = Enemy(f2)
     
         TopLayerDict[hero.lower()]['Ally'] = AllyDict
+        # print(AllyDict.values())
+        # break
         # print(TopLayerDict)
         TopLayerDict[hero.lower()]['Enemy'] = EnemyDict
         # print(hero)  
+        
              
     out = json.dumps(TopLayerDict, sort_keys=True,indent=4, separators=(',', ': '))
     with open('Dota_STAT.json','w') as js:
