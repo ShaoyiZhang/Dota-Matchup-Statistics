@@ -54,7 +54,7 @@ def crawler():
         # WinRate
         url = 'http://dotamax.com/hero/rate'
         req = requests.get(url,headers=headers)
-        print(req.status_code,'winRate')        
+        print('Getting winRate',req.status_code)        
         if (req.status_code != 200):
             print(url)
         with open(winRateDir + 'winRate.html', 'w') as f:
