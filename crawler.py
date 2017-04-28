@@ -16,6 +16,17 @@ def makeNewDir(path):
 headers = { 'Referer':'http://dotamax.com/hero/rate/',
             'Accept-Language':'en-us',
             'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36'}
+# '''
+def txt2json():
+    with open('herolist.txt','r') as f:
+        herolist = f.read().split(',')
+        # print(herolist)
+
+        out = json.dumps(herolist, sort_keys=True,indent=4, separators=(',', ': '))
+        with open('herolist.json','w') as js:
+            js.write(out)
+# txt2json()
+# '''
 
 def crawler():
     date = time.strftime("%d_%m_%Y")
@@ -27,8 +38,10 @@ def crawler():
     makeNewDir(winRateDir)
 
     # download
-    with open('herolist.txt') as heros:
-        herolist = heros.read().split(',')
+    # with open('herolist.txt') as heros:
+    with open('herolist.json','r') as js:
+        herolist = json.loads(js.read())
+        # herolist = js.load().split(',')
         herolist.append("furion")
         herolist.append('spectre')
         
@@ -149,16 +162,18 @@ def parse():
     allyDir = './html/comb/' + date + '/'
     enemyDir = './html/anti/' + date + '/'
     winRateDir = './html/winRate/' + date +'/'
-    jsonDir = './json/' + date + '/'
+    jsonDir = './json/'
     makeNewDir(jsonDir)
     
-    with open('herolist.txt') as heros:
-        herolist = heros.read().split(',')
+    # with open('herolist.txt') as heros:
+    #     herolist = heros.read().split(',')2
+    with open('herolist.json','r') as js:
+        herolist = json.loads(js.read())
         TopLayerDict = {}
 
         with open(winRateDir + 'winRate.html','r') as f:
             TopLayerDict = WinRate(f)
-        
+
         # special for nature's prophet
         herolist.append('furion')
         herolist.append('spectre')
@@ -181,7 +196,7 @@ def parse():
             
                 
         out = json.dumps(TopLayerDict, sort_keys=True,indent=4, separators=(',', ': '))
-        with open(jsonDir + 'Dota_STAT.json','w') as js:
+        with open(jsonDir + date + '.json','w') as js:
             js.write(out)
 
 crawler()
