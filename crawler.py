@@ -16,17 +16,17 @@ def makeNewDir(path):
 headers = { 'Referer':'http://dotamax.com/hero/rate/',
             'Accept-Language':'en-us',
             'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.113 Safari/537.36'}
-# '''
-def txt2json():
-    with open('herolist.txt','r') as f:
-        herolist = f.read().split(',')
-        # print(herolist)
 
-        out = json.dumps(herolist, sort_keys=True,indent=4, separators=(',', ': '))
-        with open('herolist.json','w') as js:
-            js.write(out)
+# def txt2json():
+#     with open('herolist.txt','r') as f:
+#         herolist = f.read().split(',')
+#         # print(herolist)
+
+#         out = json.dumps(herolist, sort_keys=True,indent=4, separators=(',', ': '))
+#         with open('herolist.json','w') as js:
+#             js.write(out)
 # txt2json()
-# '''
+
 
 def crawler():
     date = time.strftime("%d_%m_%Y")
