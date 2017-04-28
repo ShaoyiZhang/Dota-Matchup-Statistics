@@ -1,7 +1,7 @@
 # Dota-Matchup-Statistics
 To run the crawler:
-
-    python3 crawler.py
+        
+    python3 crawler.py
 
 There is a sleep(0.5) operation during each web query, so the crawling part will take few minutes.
 
